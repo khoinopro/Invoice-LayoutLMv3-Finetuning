@@ -1,0 +1,472 @@
+{
+  "field_extractions": [
+    {
+      "bbox": null,
+      "page": 0,
+      "score": null,
+      "text": "eng",
+      "fieldtype": "language",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": null,
+      "page": 0,
+      "score": null,
+      "text": "tax_invoice",
+      "fieldtype": "document_type",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        963.0,
+        307.0,
+        1057.0,
+        326.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "6/22/2025",
+      "fieldtype": "date_due",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        963.0,
+        127.0,
+        1057.0,
+        146.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "5/22/2025",
+      "fieldtype": "date_issue",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        720.0,
+        187.0,
+        810.0,
+        206.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "61-188590",
+      "fieldtype": "purchase_order_id",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        411.0,
+        137.0,
+        605.0,
+        166.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "CPI007529687",
+      "fieldtype": "document_id",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        957.0,
+        247.0,
+        1063.0,
+        266.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "Net 30 Days",
+      "fieldtype": "terms",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": null,
+      "page": 0,
+      "score": null,
+      "text": "cad",
+      "fieldtype": "currency",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1085.0,
+        1029.0,
+        1127.0,
+        1046.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "34.04",
+      "fieldtype": "tax_amount",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        301.0,
+        1029.0,
+        385.0,
+        1046.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "899544779",
+      "fieldtype": "sender_vat_id",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        40.0,
+        1029.0,
+        106.0,
+        1046.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "HST Tax",
+      "fieldtype": "tax_name",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1063.0,
+        1492.0,
+        1124.0,
+        1509.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "296.92",
+      "fieldtype": "amount_due",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1082.0,
+        1374.0,
+        1124.0,
+        1390.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "34.04",
+      "fieldtype": "amount_total_tax",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1073.0,
+        1344.0,
+        1124.0,
+        1360.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "261.88",
+      "fieldtype": "amount_total_base",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        406.0,
+        424.0,
+        595.0,
+        460.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "2101 SHANLY ROAD\nCARDINAL, ON K0E 1E0",
+      "fieldtype": "recipient_delivery_address",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        406.0,
+        405.0,
+        680.0,
+        421.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "LAIDLAW CARRIERS VAN GP, INC.",
+      "fieldtype": "recipient_delivery_name",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        62.0,
+        421.0,
+        249.0,
+        456.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "21 KERR CRESCENT\nPUSLINCH, ON N0B 2J0",
+      "fieldtype": "recipient_address",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        62.0,
+        402.0,
+        336.0,
+        419.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "LAIDLAW CARRIERS VAN GP, INC.",
+      "fieldtype": "recipient_name",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        836.0,
+        517.0,
+        940.0,
+        534.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "800-608-0809",
+      "fieldtype": "vendor_phone",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        783.0,
+        423.0,
+        952.0,
+        515.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "C/O Lockbox 914170\nPO Box 4090 STN A\nToronto, ON M5W 0E9",
+      "fieldtype": "sender_address",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        783.0,
+        405.0,
+        899.0,
+        421.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "Corcentric, LLC",
+      "fieldtype": "sender_name",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        656.0,
+        844.0,
+        694.0,
+        860.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "Each",
+      "fieldtype": "item_uom",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1074.0,
+        844.0,
+        1125.0,
+        860.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "277.88",
+      "fieldtype": "item_amount_total",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        906.0,
+        844.0,
+        976.0,
+        860.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "138.9400",
+      "fieldtype": "item_amount",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        307.0,
+        844.0,
+        524.0,
+        860.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "SPRING-AIR, HSN TRAILER",
+      "fieldtype": "item_description",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        112.0,
+        844.0,
+        264.0,
+        891.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "AS80910\nVMRS: 016-001-008",
+      "fieldtype": "item_code",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        834.0,
+        844.0,
+        867.0,
+        860.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "2.00",
+      "fieldtype": "item_quantity",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        656.0,
+        902.0,
+        694.0,
+        919.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "Each",
+      "fieldtype": "item_uom",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1078.0,
+        902.0,
+        1125.0,
+        919.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "-16.00",
+      "fieldtype": "item_amount_total",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        925.0,
+        902.0,
+        976.0,
+        919.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "8.0000",
+      "fieldtype": "item_amount",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        307.0,
+        902.0,
+        534.0,
+        919.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "PACCAR LOYALTY COUPON",
+      "fieldtype": "item_description",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        112.0,
+        902.0,
+        185.0,
+        919.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "COUPON",
+      "fieldtype": "item_code",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        829.0,
+        902.0,
+        867.0,
+        919.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "-2.00",
+      "fieldtype": "item_quantity",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": null,
+    "currency": "cad",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "invoice_CPI007529687",
+    "page_count": 1,
+    "page_sizes_at_200dpi": null,
+    "page_to_table_grid": {},
+    "rossum_annotation_url": "https://vgu.rossum.app/api/v1/annotations/36532129",
+    "rossum_status": "confirmed",
+    "rossum_arrived_at": "2026-03-18T07:44:35.695398Z",
+    "rossum_exported_at": null,
+    "rossum_export_failed_at": null,
+    "rossum_modified_at": "2026-03-19T08:19:24.783150Z",
+    "rossum_modifier": "10422059@student.vgu.edu.vn",
+    "rossum_schema_url": "https://vgu.rossum.app/api/v1/schemas/2108960"
+  }
+}

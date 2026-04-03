@@ -1,0 +1,472 @@
+{
+  "field_extractions": [
+    {
+      "bbox": null,
+      "page": 0,
+      "score": null,
+      "text": "eng",
+      "fieldtype": "language",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": null,
+      "page": 0,
+      "score": null,
+      "text": "tax_invoice",
+      "fieldtype": "document_type",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        963.0,
+        307.0,
+        1057.0,
+        326.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "5/26/2025",
+      "fieldtype": "date_due",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        963.0,
+        127.0,
+        1057.0,
+        146.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "5/23/2025",
+      "fieldtype": "date_issue",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        720.0,
+        187.0,
+        810.0,
+        206.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "67-189097",
+      "fieldtype": "purchase_order_id",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        404.0,
+        137.0,
+        612.0,
+        166.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "CPC000692660",
+      "fieldtype": "document_id",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        957.0,
+        247.0,
+        1063.0,
+        266.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "Net 30 Days",
+      "fieldtype": "terms",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": null,
+      "page": 0,
+      "score": null,
+      "text": "cad",
+      "fieldtype": "currency",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1080.0,
+        1025.0,
+        1127.0,
+        1042.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "-35.36",
+      "fieldtype": "tax_amount",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        301.0,
+        1025.0,
+        385.0,
+        1042.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "896738069",
+      "fieldtype": "sender_vat_id",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        40.0,
+        1025.0,
+        106.0,
+        1042.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "HST Tax",
+      "fieldtype": "tax_name",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1058.0,
+        1488.0,
+        1124.0,
+        1505.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "-308.36",
+      "fieldtype": "amount_due",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1077.0,
+        1369.0,
+        1124.0,
+        1386.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "-35.36",
+      "fieldtype": "amount_total_tax",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1067.0,
+        1340.0,
+        1124.0,
+        1356.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "-272.00",
+      "fieldtype": "amount_total_base",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        406.0,
+        424.0,
+        556.0,
+        460.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "2246 Bowman St.\nInnisfil, ON L9S 3V5",
+      "fieldtype": "recipient_delivery_address",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        406.0,
+        405.0,
+        626.0,
+        421.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "Laidlaw Carriers Van GP, Inc.",
+      "fieldtype": "recipient_delivery_name",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        62.0,
+        421.0,
+        249.0,
+        456.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "21 KERR CRESCENT\nPUSLINCH, ON N0B 2J0",
+      "fieldtype": "recipient_address",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        62.0,
+        402.0,
+        336.0,
+        419.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "LAIDLAW CARRIERS VAN GP, INC.",
+      "fieldtype": "recipient_name",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        836.0,
+        517.0,
+        940.0,
+        534.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "800-608-0809",
+      "fieldtype": "vendor_phone",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        783.0,
+        423.0,
+        952.0,
+        515.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "C/O Lockbox 914170\nPO Box 4090 STN A\nToronto, ON M5W 0E9",
+      "fieldtype": "sender_address",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        783.0,
+        405.0,
+        899.0,
+        421.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "Corcentric, LLC",
+      "fieldtype": "sender_name",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        656.0,
+        798.0,
+        694.0,
+        815.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "Each",
+      "fieldtype": "item_uom",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1069.0,
+        798.0,
+        1125.0,
+        815.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "-110.00",
+      "fieldtype": "item_amount_total",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        925.0,
+        798.0,
+        976.0,
+        815.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "0.0000",
+      "fieldtype": "item_amount",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        307.0,
+        798.0,
+        602.0,
+        815.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "CONTROL-DOOR, DRIVER SIDE-Core",
+      "fieldtype": "item_description",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        112.0,
+        798.0,
+        300.0,
+        846.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "Q27-1043-1211-C\nUnit Core 110.0000",
+      "fieldtype": "item_code",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        829.0,
+        798.0,
+        867.0,
+        815.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "-1.00",
+      "fieldtype": "item_quantity",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        656.0,
+        856.0,
+        694.0,
+        873.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "Each",
+      "fieldtype": "item_uom",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1069.0,
+        856.0,
+        1125.0,
+        873.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "-162.00",
+      "fieldtype": "item_amount_total",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        925.0,
+        856.0,
+        976.0,
+        873.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "0.0000",
+      "fieldtype": "item_amount",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        307.0,
+        856.0,
+        633.0,
+        892.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "BATTERY-12V HD GRP 31 SEVERE DUAL\n700CCA-Core",
+      "fieldtype": "item_description",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        112.0,
+        856.0,
+        301.0,
+        920.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "BD31S71EXCH-C\nUnit Core 32.4000",
+      "fieldtype": "item_code",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        829.0,
+        856.0,
+        867.0,
+        873.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "-5.00",
+      "fieldtype": "item_quantity",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": null,
+    "currency": "cad",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "invoice_CPC000692660",
+    "page_count": 1,
+    "page_sizes_at_200dpi": null,
+    "page_to_table_grid": {},
+    "rossum_annotation_url": "https://vgu.rossum.app/api/v1/annotations/36532116",
+    "rossum_status": "confirmed",
+    "rossum_arrived_at": "2026-03-18T07:44:35.246008Z",
+    "rossum_exported_at": null,
+    "rossum_export_failed_at": null,
+    "rossum_modified_at": "2026-03-19T07:56:39.685245Z",
+    "rossum_modifier": "10422059@student.vgu.edu.vn",
+    "rossum_schema_url": "https://vgu.rossum.app/api/v1/schemas/2108960"
+  }
+}

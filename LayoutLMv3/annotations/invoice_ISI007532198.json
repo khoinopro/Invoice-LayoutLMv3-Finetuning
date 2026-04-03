@@ -1,0 +1,556 @@
+{
+  "field_extractions": [
+    {
+      "bbox": null,
+      "page": 0,
+      "score": null,
+      "text": "eng",
+      "fieldtype": "language",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": null,
+      "page": 0,
+      "score": null,
+      "text": "tax_invoice",
+      "fieldtype": "document_type",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        961.0,
+        307.0,
+        1055.0,
+        326.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "6/22/2025",
+      "fieldtype": "date_due",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        961.0,
+        127.0,
+        1055.0,
+        146.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "5/23/2025",
+      "fieldtype": "date_issue",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        718.0,
+        187.0,
+        808.0,
+        206.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "50-189018",
+      "fieldtype": "purchase_order_id",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        417.0,
+        137.0,
+        599.0,
+        166.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "ISI007532198",
+      "fieldtype": "document_id",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        955.0,
+        247.0,
+        1061.0,
+        266.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "Net 30 Days",
+      "fieldtype": "terms",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": null,
+      "page": 0,
+      "score": null,
+      "text": "cad",
+      "fieldtype": "currency",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1085.0,
+        1004.0,
+        1127.0,
+        1021.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "29.12",
+      "fieldtype": "tax_amount",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        301.0,
+        1004.0,
+        444.0,
+        1021.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "892019647RT0001",
+      "fieldtype": "sender_vat_id",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        40.0,
+        1004.0,
+        106.0,
+        1021.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "HST Tax",
+      "fieldtype": "tax_name",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1063.0,
+        1494.0,
+        1124.0,
+        1511.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "254.12",
+      "fieldtype": "amount_due",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1082.0,
+        1376.0,
+        1124.0,
+        1392.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "29.12",
+      "fieldtype": "amount_total_tax",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1073.0,
+        1346.0,
+        1124.0,
+        1363.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "224.00",
+      "fieldtype": "amount_total_base",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        406.0,
+        424.0,
+        593.0,
+        460.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "21 KERR CRESCENT\nPUSLINCH, ON N0B 2J0",
+      "fieldtype": "recipient_delivery_address",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        406.0,
+        405.0,
+        680.0,
+        421.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "LAIDLAW CARRIERS VAN GP, INC.",
+      "fieldtype": "recipient_delivery_name",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        62.0,
+        421.0,
+        249.0,
+        456.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "21 KERR CRESCENT\nPUSLINCH, ON N0B 2J0",
+      "fieldtype": "recipient_address",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        62.0,
+        402.0,
+        336.0,
+        419.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "LAIDLAW CARRIERS VAN GP, INC.",
+      "fieldtype": "recipient_name",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        836.0,
+        517.0,
+        940.0,
+        534.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "800-608-0809",
+      "fieldtype": "vendor_phone",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        783.0,
+        423.0,
+        952.0,
+        515.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "C/O Lockbox 914170\nPO Box 4090 STN A\nToronto, ON M5W 0E9",
+      "fieldtype": "sender_address",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        783.0,
+        405.0,
+        899.0,
+        421.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "Corcentric, LLC",
+      "fieldtype": "sender_name",
+      "line_item_id": null,
+      "use_only_for_ap": false
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        656.0,
+        786.0,
+        679.0,
+        802.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "EA",
+      "fieldtype": "item_uom",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1074.0,
+        786.0,
+        1125.0,
+        802.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "129.00",
+      "fieldtype": "item_amount_total",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        925.0,
+        786.0,
+        976.0,
+        802.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "1.2900",
+      "fieldtype": "item_amount",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        307.0,
+        786.0,
+        604.0,
+        821.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "1485-8-BLK AIR BRAKE HOSE NYLON\nBLACK 1/2OD",
+      "fieldtype": "item_description",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        112.0,
+        786.0,
+        235.0,
+        802.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "884.NT10008BK",
+      "fieldtype": "item_code",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        816.0,
+        786.0,
+        867.0,
+        802.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "100.00",
+      "fieldtype": "item_quantity",
+      "line_item_id": 0,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        656.0,
+        831.0,
+        679.0,
+        848.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "EA",
+      "fieldtype": "item_uom",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1084.0,
+        831.0,
+        1125.0,
+        848.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "95.00",
+      "fieldtype": "item_amount_total",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        925.0,
+        831.0,
+        976.0,
+        848.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "0.9500",
+      "fieldtype": "item_amount",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        307.0,
+        831.0,
+        604.0,
+        867.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "1485-6-BLK AIR BRAKE HOSE NYLON\nBLACK 3/8OD",
+      "fieldtype": "item_description",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        112.0,
+        831.0,
+        235.0,
+        848.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "884.NT10006BK",
+      "fieldtype": "item_code",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        816.0,
+        831.0,
+        867.0,
+        848.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "100.00",
+      "fieldtype": "item_quantity",
+      "line_item_id": 1,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        656.0,
+        877.0,
+        679.0,
+        894.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "EA",
+      "fieldtype": "item_uom",
+      "line_item_id": 2,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        1093.0,
+        877.0,
+        1125.0,
+        894.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "0.00",
+      "fieldtype": "item_amount_total",
+      "line_item_id": 2,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        925.0,
+        877.0,
+        976.0,
+        894.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "0.0000",
+      "fieldtype": "item_amount",
+      "line_item_id": 2,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        307.0,
+        877.0,
+        457.0,
+        894.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "FREIGHT CHARGE",
+      "fieldtype": "item_description",
+      "line_item_id": 2,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        112.0,
+        877.0,
+        152.0,
+        894.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "D240",
+      "fieldtype": "item_code",
+      "line_item_id": 2,
+      "use_only_for_ap": false
+    },
+    {
+      "bbox": [
+        834.0,
+        877.0,
+        867.0,
+        894.0
+      ],
+      "page": 1,
+      "score": null,
+      "text": "1.00",
+      "fieldtype": "item_quantity",
+      "line_item_id": 2,
+      "use_only_for_ap": false
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": null,
+    "currency": "cad",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "invoice_ISI007532198",
+    "page_count": 1,
+    "page_sizes_at_200dpi": null,
+    "page_to_table_grid": {},
+    "rossum_annotation_url": "https://vgu.rossum.app/api/v1/annotations/36532202",
+    "rossum_status": "confirmed",
+    "rossum_arrived_at": "2026-03-18T07:45:03.322838Z",
+    "rossum_exported_at": null,
+    "rossum_export_failed_at": null,
+    "rossum_modified_at": "2026-03-19T07:08:00.163093Z",
+    "rossum_modifier": "10422059@student.vgu.edu.vn",
+    "rossum_schema_url": "https://vgu.rossum.app/api/v1/schemas/2108960"
+  }
+}

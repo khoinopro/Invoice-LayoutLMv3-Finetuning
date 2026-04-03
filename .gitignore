@@ -1,0 +1,32 @@
+# Models and weights
+LayoutLMv3/src/model.bin
+LayoutLMv3/inference_finetuned_model/
+LayoutLMv3/inference_base_model/
+
+# Data and Visualizations (Optional: keeping small samples is OK, but huge ones should be ignored)
+# If these contain sensitive invoices, you should keep them ignored.
+LayoutLMv3/annotation_visualize/
+# LayoutLMv3/images/
+# LayoutLMv3/inputs/
+Preparing data-finetuned/ners_visualize/
+Preparing data-finetuned/ocr_with_ner_tags/
+Preparing data-finetuned/ocr_without_ner_tags/
+
+# Python / IDE
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+.ipynb_checkpoints/
+.vscode/
+
+# Project specific results
+LayoutLMv3/inference_results.json
+LayoutLMv3/visualized_inference.png
+
+# Raw data (optional, but recommended if large)
+# *.pdf
+# *.png
+# *.jpg
+# *.jpeg
