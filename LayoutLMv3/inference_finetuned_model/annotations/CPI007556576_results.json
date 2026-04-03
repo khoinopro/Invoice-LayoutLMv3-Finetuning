@@ -1,0 +1,808 @@
+{
+    "image": "CPI007556576.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8736349940299988,
+            "text": "CPI007556576",
+            "box_2d": [
+                322,
+                65,
+                475,
+                80
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8671421408653259,
+            "text": " 51-189709",
+            "box_2d": [
+                560,
+                90,
+                640,
+                102
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.3614591956138611,
+            "text": " Net 30 Days",
+            "box_2d": [
+                745,
+                118,
+                835,
+                131
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8236019015312195,
+            "text": "07/02/2025",
+            "box_2d": [
+                751,
+                148,
+                832,
+                160
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.28891056776046753,
+            "text": "[Invoice Header",
+            "box_2d": [
+                26,
+                169,
+                126,
+                183
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.32422587275505066,
+            "text": "LAIDLAW CARRIERS VAN GP, INC.",
+            "box_2d": [
+                45,
+                194,
+                262,
+                205
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6308633685112,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                317,
+                195,
+                491,
+                206
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8567201495170593,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                613,
+                195,
+                708,
+                206
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.6660365462303162,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                45,
+                204,
+                181,
+                214
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.6884990930557251,
+            "text": " 80 Third Line",
+            "box_2d": [
+                314,
+                204,
+                399,
+                216
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.5815557837486267,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                613,
+                205,
+                738,
+                215
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.8648403286933899,
+            "text": "PUSLINCH, ON N0B 2J0",
+            "box_2d": [
+                45,
+                213,
+                197,
+                224
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9046608805656433,
+            "text": "Hagersville, ON N0A 1H0",
+            "box_2d": [
+                314,
+                214,
+                468,
+                225
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9543968439102173,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                610,
+                224,
+                735,
+                234
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.8664435148239136,
+            "text": "Toronto, ON M5W 0E9",
+            "box_2d": [
+                611,
+                241,
+                748,
+                252
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8904270529747009,
+            "text": "Each",
+            "box_2d": [
+                511,
+                408,
+                547,
+                423
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8450703024864197,
+            "text": "1.00",
+            "box_2d": [
+                651,
+                409,
+                684,
+                422
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8927210569381714,
+            "text": "73.5500",
+            "box_2d": [
+                715,
+                409,
+                768,
+                420
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.8967339396476746,
+            "text": "73.55",
+            "box_2d": [
+                847,
+                407,
+                884,
+                422
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.5282798409461975,
+            "text": "VMRS: 045-068-011",
+            "box_2d": [
+                84,
+                423,
+                208,
+                436
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.707318127155304,
+            "text": "1922496P",
+            "box_2d": [
+                87,
+                438,
+                149,
+                449
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8486936688423157,
+            "text": "MHSW FEE",
+            "box_2d": [
+                237,
+                438,
+                314,
+                449
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8810398578643799,
+            "text": "Each",
+            "box_2d": [
+                511,
+                438,
+                549,
+                449
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.855762779712677,
+            "text": "1.00",
+            "box_2d": [
+                651,
+                435,
+                684,
+                451
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8940246105194092,
+            "text": "0.5000",
+            "box_2d": [
+                721,
+                438,
+                770,
+                449
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.8888084292411804,
+            "text": "0.50",
+            "box_2d": [
+                853,
+                437,
+                886,
+                449
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8397384881973267,
+            "text": "1.00",
+            "box_2d": [
+                651,
+                453,
+                684,
+                465
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8975575566291809,
+            "text": "66.9900",
+            "box_2d": [
+                715,
+                454,
+                768,
+                465
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9008142352104187,
+            "text": "66.99",
+            "box_2d": [
+                845,
+                454,
+                886,
+                465
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.4709172546863556,
+            "text": "VMRS: 045-001-011",
+            "box_2d": [
+                84,
+                467,
+                210,
+                481
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8016754984855652,
+            "text": "1948921P",
+            "box_2d": [
+                85,
+                482,
+                151,
+                493
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.842336118221283,
+            "text": "MHSW FEE",
+            "box_2d": [
+                238,
+                482,
+                314,
+                492
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8765009045600891,
+            "text": "Each",
+            "box_2d": [
+                511,
+                482,
+                549,
+                493
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8457144498825073,
+            "text": "1.00",
+            "box_2d": [
+                651,
+                482,
+                685,
+                493
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8664405345916748,
+            "text": "1.2500",
+            "box_2d": [
+                721,
+                482,
+                770,
+                493
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.7056136727333069,
+            "text": "1.25",
+            "box_2d": [
+                853,
+                482,
+                886,
+                493
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.7963574528694153,
+            "text": "2277129PE",
+            "box_2d": [
+                85,
+                497,
+                159,
+                508
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8516353368759155,
+            "text": "FILTER-FUEL",
+            "box_2d": [
+                238,
+                497,
+                325,
+                508
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8793145418167114,
+            "text": "Each",
+            "box_2d": [
+                511,
+                497,
+                549,
+                509
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.849005937576294,
+            "text": "1.00",
+            "box_2d": [
+                651,
+                496,
+                685,
+                509
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8757392168045044,
+            "text": "91.9900",
+            "box_2d": [
+                715,
+                497,
+                768,
+                509
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.6761694550514221,
+            "text": "91.99",
+            "box_2d": [
+                847,
+                497,
+                886,
+                509
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.6901636719703674,
+            "text": "VMRS: 044-002-002",
+            "box_2d": [
+                85,
+                511,
+                210,
+                524
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.24087531864643097,
+            "text": "FS19765FLG",
+            "box_2d": [
+                84,
+                524,
+                169,
+                537
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.501787006855011,
+            "text": " SEPERATOR-FUEL FILTER",
+            "box_2d": [
+                238,
+                525,
+                411,
+                536
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.4121529757976532,
+            "text": "Each",
+            "box_2d": [
+                511,
+                523,
+                547,
+                538
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.7143510580062866,
+            "text": "1.00",
+            "box_2d": [
+                651,
+                525,
+                685,
+                537
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.7735782861709595,
+            "text": "18.6900",
+            "box_2d": [
+                717,
+                527,
+                768,
+                537
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.7596864104270935,
+            "text": "18.69",
+            "box_2d": [
+                848,
+                525,
+                886,
+                537
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.5955598950386047,
+            "text": "VMRS: 044-016-002",
+            "box_2d": [
+                85,
+                541,
+                210,
+                551
+            ]
+        },
+        {
+            "label": "I-item_description",
+            "confidence": 0.6266575455665588,
+            "text": "Each",
+            "box_2d": [
+                511,
+                552,
+                547,
+                566
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.6188186407089233,
+            "text": "1.00",
+            "box_2d": [
+                651,
+                551,
+                682,
+                566
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.5382593274116516,
+            "text": "FS19765FL",
+            "box_2d": [
+                85,
+                555,
+                156,
+                565
+            ]
+        },
+        {
+            "label": "I-item_description",
+            "confidence": 0.46240660548210144,
+            "text": "MHSW FEE",
+            "box_2d": [
+                238,
+                555,
+                312,
+                565
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.7641676664352417,
+            "text": "0.6000",
+            "box_2d": [
+                721,
+                554,
+                770,
+                565
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.7096779346466064,
+            "text": "0.60",
+            "box_2d": [
+                853,
+                554,
+                886,
+                566
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.22097410261631012,
+            "text": "1982821PE",
+            "box_2d": [
+                85,
+                569,
+                159,
+                580
+            ]
+        },
+        {
+            "label": "I-item_description",
+            "confidence": 0.29481154680252075,
+            "text": "DRAIN PLUG, SINGLE USE, MX OIL PAN",
+            "box_2d": [
+                238,
+                569,
+                491,
+                580
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.5693608522415161,
+            "text": "Each",
+            "box_2d": [
+                511,
+                569,
+                549,
+                581
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.4984458386898041,
+            "text": "1.00",
+            "box_2d": [
+                651,
+                567,
+                682,
+                582
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.7033766508102417,
+            "text": "12.1800",
+            "box_2d": [
+                715,
+                569,
+                770,
+                581
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.39943328499794006,
+            "text": "12.18",
+            "box_2d": [
+                847,
+                567,
+                884,
+                582
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.4689221680164337,
+            "text": "HST Tax",
+            "box_2d": [
+                28,
+                644,
+                85,
+                655
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.6187120079994202,
+            "text": "899544779",
+            "box_2d": [
+                233,
+                644,
+                305,
+                656
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.7415714263916016,
+            "text": "34.55",
+            "box_2d": [
+                848,
+                644,
+                888,
+                656
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.21796955168247223,
+            "text": "34.55",
+            "box_2d": [
+                845,
+                893,
+                885,
+                908
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.53240966796875,
+            "text": "P - Parts",
+            "box_2d": [
+                65,
+                921,
+                125,
+                938
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.20047399401664734,
+            "text": "263.40",
+            "box_2d": [
+                343,
+                923,
+                394,
+                938
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.2666858732700348,
+            "text": "$300.30",
+            "box_2d": [
+                830,
+                924,
+                884,
+                936
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.5449551939964294,
+            "text": "s - Shop",
+            "box_2d": [
+                66,
+                938,
+                125,
+                952
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.21845506131649017,
+            "text": "$1.00",
+            "box_2d": [
+                843,
+                939,
+                886,
+                952
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.35885417461395264,
+            "text": "U - Sublet",
+            "box_2d": [
+                66,
+                951,
+                130,
+                967
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.18690717220306396,
+            "text": "$265.75",
+            "box_2d": [
+                340,
+                968,
+                392,
+                980
+            ]
+        }
+    ]
+}

@@ -1,0 +1,489 @@
+{
+    "image": "invoice_ISI007532198_page0.png",
+    "predictions": [
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8854935169219971,
+            "text": "05/23/2025",
+            "box_2d": [
+                749,
+                73,
+                829,
+                88
+            ]
+        },
+        {
+            "label": "B-document_id",
+            "confidence": 0.8910380005836487,
+            "text": "ISI007532198",
+            "box_2d": [
+                327,
+                82,
+                469,
+                100
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8767480850219727,
+            "text": "50-189018",
+            "box_2d": [
+                560,
+                111,
+                636,
+                126
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.7433424592018127,
+            "text": "Net 30 Days",
+            "box_2d": [
+                745,
+                149,
+                831,
+                160
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.842976450920105,
+            "text": "06/22/2025",
+            "box_2d": [
+                749,
+                183,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.28967711329460144,
+            "text": "LAIDLAW CARRIERS VAN GP, INC",
+            "box_2d": [
+                46,
+                241,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.5714834332466125,
+            "text": "LAIDLAW CARRIERS VAN GP,INC.",
+            "box_2d": [
+                315,
+                243,
+                532,
+                256
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8688966631889343,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                612,
+                244,
+                706,
+                255
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.45475614070892334,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                252,
+                179,
+                266
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.6532719731330872,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                316,
+                255,
+                449,
+                268
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.7058766484260559,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.950090765953064,
+            "text": "PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9683428406715393,
+            "text": "PUSLINCH, ON N0B 2J0",
+            "box_2d": [
+                316,
+                266,
+                467,
+                280
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9746474027633667,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9784708619117737,
+            "text": "Toronto,ON M5W 0E9",
+            "box_2d": [
+                610,
+                301,
+                747,
+                311
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8616874814033508,
+            "text": "884.NT10008BK",
+            "box_2d": [
+                87,
+                475,
+                187,
+                486
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8545780181884766,
+            "text": "1485-8-BLK AIR BRAKE HOSE NYLON",
+            "box_2d": [
+                240,
+                475,
+                474,
+                486
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8987390398979187,
+            "text": "EA",
+            "box_2d": [
+                513,
+                475,
+                536,
+                487
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8177126049995422,
+            "text": "100.00",
+            "box_2d": [
+                636,
+                473,
+                683,
+                488
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8737932443618774,
+            "text": "1.2900",
+            "box_2d": [
+                723,
+                473,
+                769,
+                488
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9051160216331482,
+            "text": "129.00",
+            "box_2d": [
+                840,
+                473,
+                887,
+                488
+            ]
+        },
+        {
+            "label": "I-item_description",
+            "confidence": 0.9515397548675537,
+            "text": "BLACK 1/2OD",
+            "box_2d": [
+                240,
+                487,
+                326,
+                498
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8600334525108337,
+            "text": "884.NT10006BK",
+            "box_2d": [
+                87,
+                503,
+                185,
+                513
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.84180748462677,
+            "text": "1485-6-BLK AIR BRAKE HOSE NYLON",
+            "box_2d": [
+                240,
+                503,
+                474,
+                513
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.9011489152908325,
+            "text": "EA",
+            "box_2d": [
+                513,
+                501,
+                536,
+                514
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8312482237815857,
+            "text": "100.00",
+            "box_2d": [
+                640,
+                503,
+                682,
+                514
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8919506072998047,
+            "text": "0.9500",
+            "box_2d": [
+                721,
+                501,
+                769,
+                515
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9047561883926392,
+            "text": "95.00",
+            "box_2d": [
+                846,
+                501,
+                887,
+                515
+            ]
+        },
+        {
+            "label": "I-item_description",
+            "confidence": 0.9506028294563293,
+            "text": "BLACK 3/8OD",
+            "box_2d": [
+                240,
+                514,
+                327,
+                526
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8651740550994873,
+            "text": "D240",
+            "box_2d": [
+                87,
+                530,
+                120,
+                542
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8564660549163818,
+            "text": "FREIGHT CHARGE",
+            "box_2d": [
+                240,
+                531,
+                358,
+                541
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8969753980636597,
+            "text": "EA",
+            "box_2d": [
+                513,
+                529,
+                535,
+                542
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8549979329109192,
+            "text": "1.00",
+            "box_2d": [
+                653,
+                530,
+                683,
+                542
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8958581686019897,
+            "text": "0.0000",
+            "box_2d": [
+                721,
+                529,
+                769,
+                543
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.8777608871459961,
+            "text": "0.00",
+            "box_2d": [
+                854,
+                530,
+                885,
+                542
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7506991624832153,
+            "text": "HST Tax",
+            "box_2d": [
+                28,
+                603,
+                86,
+                621
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.82722407579422,
+            "text": "892019647RT0001",
+            "box_2d": [
+                235,
+                608,
+                347,
+                618
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.860175609588623,
+            "text": "29.12",
+            "box_2d": [
+                849,
+                607,
+                887,
+                620
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.6323878169059753,
+            "text": "50-189018",
+            "box_2d": [
+                607,
+                717,
+                673,
+                729
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.2335507571697235,
+            "text": "29.12",
+            "box_2d": [
+                845,
+                832,
+                885,
+                846
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.1913021206855774,
+            "text": "224.00",
+            "box_2d": [
+                345,
+                867,
+                393,
+                882
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.1978146731853485,
+            "text": "$253.12",
+            "box_2d": [
+                831,
+                867,
+                885,
+                882
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.40090230107307434,
+            "text": "S - Shop",
+            "box_2d": [
+                67,
+                884,
+                125,
+                902
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.4468328654766083,
+            "text": "U - Sublet",
+            "box_2d": [
+                65,
+                901,
+                132,
+                918
+            ]
+        }
+    ]
+}

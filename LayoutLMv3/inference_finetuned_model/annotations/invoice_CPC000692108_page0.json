@@ -1,0 +1,313 @@
+{
+    "image": "invoice_CPC000692108_page0.png",
+    "predictions": [
+        {
+            "label": "B-date_issue",
+            "confidence": 0.884770393371582,
+            "text": "05/23/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-document_id",
+            "confidence": 0.8901673555374146,
+            "text": "CPC000692108",
+            "box_2d": [
+                317,
+                81,
+                480,
+                98
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8816365599632263,
+            "text": "53-179213",
+            "box_2d": [
+                560,
+                111,
+                636,
+                126
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.6322622895240784,
+            "text": "STMT NET 7",
+            "box_2d": [
+                744,
+                149,
+                831,
+                160
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8400858044624329,
+            "text": "05/23/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.32226890325546265,
+            "text": " LAIDLAW CARRIERS VAN GP, INC",
+            "box_2d": [
+                44,
+                241,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.60430508852005,
+            "text": " LAIDLAW CARRIERS VAN GP, INC.",
+            "box_2d": [
+                315,
+                243,
+                534,
+                256
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8695485591888428,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                614,
+                244,
+                706,
+                256
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.41511231660842896,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                47,
+                255,
+                179,
+                265
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.7452813982963562,
+            "text": "1250 Thornton Rd S",
+            "box_2d": [
+                317,
+                255,
+                440,
+                268
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.801448404788971,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.9497697949409485,
+            "text": "PUSLINCH,ON N0B 2J0",
+            "box_2d": [
+                46,
+                264,
+                194,
+                275
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9671640992164612,
+            "text": "Oshawa, ON L1J 7E2",
+            "box_2d": [
+                316,
+                266,
+                447,
+                280
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9769493937492371,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9785893559455872,
+            "text": "Toronto,ON M5W 0E9",
+            "box_2d": [
+                610,
+                301,
+                747,
+                311
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8336818814277649,
+            "text": "A12-23236-015",
+            "box_2d": [
+                87,
+                500,
+                179,
+                511
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.868232786655426,
+            "text": "HOSE ASSY-AIR,DISCHA",
+            "box_2d": [
+                237,
+                498,
+                398,
+                512
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.898159921169281,
+            "text": "EA",
+            "box_2d": [
+                513,
+                498,
+                535,
+                512
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8504942059516907,
+            "text": "-1.00",
+            "box_2d": [
+                647,
+                498,
+                683,
+                511
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8985209465026855,
+            "text": "111.0000",
+            "box_2d": [
+                709,
+                500,
+                767,
+                511
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9009819626808167,
+            "text": "-111.00",
+            "box_2d": [
+                836,
+                500,
+                885,
+                511
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.8343842625617981,
+            "text": "VMRS: 013-009-023",
+            "box_2d": [
+                85,
+                517,
+                210,
+                531
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7313167452812195,
+            "text": "HST Tax",
+            "box_2d": [
+                28,
+                589,
+                86,
+                606
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.8522363305091858,
+            "text": "14.43",
+            "box_2d": [
+                846,
+                592,
+                885,
+                604
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.17545302212238312,
+            "text": "-111.00",
+            "box_2d": [
+                835,
+                762,
+                884,
+                773
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.32817646861076355,
+            "text": "L - Labor",
+            "box_2d": [
+                65,
+                777,
+                127,
+                796
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.18571573495864868,
+            "text": "-14.43",
+            "box_2d": [
+                840,
+                779,
+                885,
+                793
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.23449242115020752,
+            "text": "-$1.00",
+            "box_2d": [
+                842,
+                833,
+                885,
+                847
+            ]
+        }
+    ]
+}

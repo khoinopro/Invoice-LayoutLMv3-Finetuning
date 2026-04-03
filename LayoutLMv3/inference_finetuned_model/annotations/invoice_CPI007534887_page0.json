@@ -1,0 +1,379 @@
+{
+    "image": "invoice_CPI007534887_page0.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8966270685195923,
+            "text": "CPI007534887",
+            "box_2d": [
+                322,
+                80,
+                475,
+                102
+            ]
+        },
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8884708881378174,
+            "text": "05/25/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8839734792709351,
+            "text": "67-189148",
+            "box_2d": [
+                563,
+                113,
+                636,
+                124
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.7129530310630798,
+            "text": "Net 30 Days",
+            "box_2d": [
+                747,
+                149,
+                832,
+                160
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8381029963493347,
+            "text": "06/25/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.3551289737224579,
+            "text": " LAIDLAW CARRIERS VAN GP, INC",
+            "box_2d": [
+                44,
+                241,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6503090858459473,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                317,
+                246,
+                490,
+                256
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8732977509498596,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                614,
+                244,
+                706,
+                256
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.5266414880752563,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                253,
+                179,
+                265
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.8084861636161804,
+            "text": "2246 Bowman St.",
+            "box_2d": [
+                317,
+                256,
+                422,
+                268
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.631830632686615,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.9489015936851501,
+            "text": "PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9695418477058411,
+            "text": "Innisfil, ON L9S 3V5",
+            "box_2d": [
+                316,
+                266,
+                439,
+                280
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9774138927459717,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9789130091667175,
+            "text": "Toronto,ON M5W 0E9",
+            "box_2d": [
+                610,
+                301,
+                747,
+                311
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8776711821556091,
+            "text": "38587",
+            "box_2d": [
+                83,
+                481,
+                126,
+                495
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.854517936706543,
+            "text": "EXHAUST PIPE OR TENSIONER-SEE",
+            "box_2d": [
+                239,
+                481,
+                471,
+                494
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8995023965835571,
+            "text": "Each",
+            "box_2d": [
+                513,
+                482,
+                547,
+                494
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8594959378242493,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                482,
+                683,
+                494
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8982284665107727,
+            "text": "204.3000",
+            "box_2d": [
+                709,
+                482,
+                767,
+                493
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9045408964157104,
+            "text": "204.30",
+            "box_2d": [
+                840,
+                481,
+                887,
+                495
+            ]
+        },
+        {
+            "label": "I-item_description",
+            "confidence": 0.9460050463676453,
+            "text": "NOTES",
+            "box_2d": [
+                239,
+                494,
+                287,
+                506
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.876814067363739,
+            "text": "K120858HD",
+            "box_2d": [
+                87,
+                510,
+                160,
+                521
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8582957983016968,
+            "text": " FLEETRUNNER HD MICRO-V BEL",
+            "box_2d": [
+                237,
+                508,
+                448,
+                523
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.898314893245697,
+            "text": "Each",
+            "box_2d": [
+                513,
+                510,
+                547,
+                523
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8604719638824463,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                510,
+                683,
+                523
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.9012014269828796,
+            "text": "123.2200",
+            "box_2d": [
+                710,
+                510,
+                767,
+                521
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9041909575462341,
+            "text": "123.22",
+            "box_2d": [
+                840,
+                510,
+                884,
+                521
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7560358643531799,
+            "text": "HST Tax",
+            "box_2d": [
+                28,
+                584,
+                86,
+                601
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.8371010422706604,
+            "text": "896738069",
+            "box_2d": [
+                235,
+                587,
+                304,
+                598
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.8574215173721313,
+            "text": "42.58",
+            "box_2d": [
+                849,
+                587,
+                885,
+                598
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.3635167181491852,
+            "text": "327.52",
+            "box_2d": [
+                838,
+                776,
+                885,
+                791
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.31597787141799927,
+            "text": "42.58",
+            "box_2d": [
+                845,
+                794,
+                885,
+                809
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.19083671271800995,
+            "text": "327.52",
+            "box_2d": [
+                345,
+                831,
+                392,
+                846
+            ]
+        }
+    ]
+}

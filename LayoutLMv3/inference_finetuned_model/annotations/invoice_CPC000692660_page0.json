@@ -1,0 +1,434 @@
+{
+    "image": "invoice_CPC000692660_page0.png",
+    "predictions": [
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8865164518356323,
+            "text": "05/23/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-document_id",
+            "confidence": 0.8894970417022705,
+            "text": "CPC000692660",
+            "box_2d": [
+                317,
+                81,
+                480,
+                98
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8827649354934692,
+            "text": "67-189097",
+            "box_2d": [
+                563,
+                113,
+                636,
+                124
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.7167677879333496,
+            "text": "Net 30 Days",
+            "box_2d": [
+                747,
+                149,
+                832,
+                160
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8380829691886902,
+            "text": "05/26/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.33571991324424744,
+            "text": " LAIDLAW CARRIERS VAN GP, INC.",
+            "box_2d": [
+                44,
+                241,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6714393496513367,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                317,
+                246,
+                490,
+                256
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8734965324401855,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                614,
+                244,
+                706,
+                256
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.4741370379924774,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                252,
+                179,
+                266
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.8063725233078003,
+            "text": "2246 Bowman St.",
+            "box_2d": [
+                317,
+                256,
+                422,
+                268
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.6249127984046936,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.949192225933075,
+            "text": "PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9691970348358154,
+            "text": "Innisfil, ON L9S 3V5",
+            "box_2d": [
+                316,
+                266,
+                439,
+                280
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9780210852622986,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9789242148399353,
+            "text": "Toronto,ON M5W 0E9",
+            "box_2d": [
+                610,
+                301,
+                747,
+                311
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8652520179748535,
+            "text": "Q27-1043-1211-C",
+            "box_2d": [
+                85,
+                481,
+                195,
+                494
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8570239543914795,
+            "text": "CONTROL-DOOR,DRIVER SIDE-Core",
+            "box_2d": [
+                240,
+                483,
+                472,
+                493
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8973891735076904,
+            "text": "Each",
+            "box_2d": [
+                513,
+                482,
+                547,
+                494
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8576537370681763,
+            "text": "-1.00",
+            "box_2d": [
+                647,
+                482,
+                682,
+                494
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8908253312110901,
+            "text": "0.0000",
+            "box_2d": [
+                721,
+                481,
+                769,
+                495
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.8919340968132019,
+            "text": "-110.00",
+            "box_2d": [
+                835,
+                481,
+                887,
+                495
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.8518434166908264,
+            "text": "Unit Core",
+            "box_2d": [
+                84,
+                497,
+                145,
+                514
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.8602888584136963,
+            "text": "110.0000",
+            "box_2d": [
+                179,
+                501,
+                236,
+                512
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8639482855796814,
+            "text": "BD31S71EXCH-C",
+            "box_2d": [
+                85,
+                516,
+                196,
+                530
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8575966954231262,
+            "text": "BATTERY-12V HD GRP 31 SEVERE DUAL",
+            "box_2d": [
+                240,
+                517,
+                498,
+                527
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.894449770450592,
+            "text": "Each",
+            "box_2d": [
+                512,
+                517,
+                545,
+                530
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8541272878646851,
+            "text": "-5.00",
+            "box_2d": [
+                649,
+                517,
+                682,
+                530
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8889522552490234,
+            "text": "0.0000",
+            "box_2d": [
+                723,
+                517,
+                767,
+                529
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.8933756351470947,
+            "text": "-162.00",
+            "box_2d": [
+                836,
+                517,
+                884,
+                529
+            ]
+        },
+        {
+            "label": "I-item_description",
+            "confidence": 0.9502105712890625,
+            "text": "700CCA-Core",
+            "box_2d": [
+                239,
+                529,
+                323,
+                541
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.8631215691566467,
+            "text": "Unit Core",
+            "box_2d": [
+                87,
+                546,
+                145,
+                557
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.851679801940918,
+            "text": "32.4000",
+            "box_2d": [
+                185,
+                546,
+                236,
+                557
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.746300995349884,
+            "text": "HST Tax",
+            "box_2d": [
+                28,
+                616,
+                86,
+                633
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.8255945444107056,
+            "text": "896738069",
+            "box_2d": [
+                233,
+                618,
+                305,
+                633
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.835322380065918,
+            "text": "-35.36",
+            "box_2d": [
+                846,
+                618,
+                887,
+                633
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.20985008776187897,
+            "text": "-272.00",
+            "box_2d": [
+                342,
+                864,
+                393,
+                879
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.16360610723495483,
+            "text": "-$307.36",
+            "box_2d": [
+                827,
+                864,
+                885,
+                879
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.1908116489648819,
+            "text": "-$1.00",
+            "box_2d": [
+                842,
+                881,
+                885,
+                896
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.23814569413661957,
+            "text": "-$308.36",
+            "box_2d": [
+                829,
+                900,
+                885,
+                914
+            ]
+        }
+    ]
+}

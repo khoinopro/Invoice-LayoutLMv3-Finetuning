@@ -1,0 +1,1292 @@
+{
+    "image": "invoice_CPI007529595_page0.png",
+    "predictions": [
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03184700012207031,
+            "text": "Page 1 of 1",
+            "box_2d": [
+                793,
+                27,
+                879,
+                38
+            ]
+        },
+        {
+            "label": "I-tax_amount",
+            "confidence": 0.03222804516553879,
+            "text": "INVOICE",
+            "box_2d": [
+                350,
+                56,
+                447,
+                73
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.029249712824821472,
+            "text": "Program Invoice Date",
+            "box_2d": [
+                519,
+                57,
+                676,
+                70
+            ]
+        },
+        {
+            "label": "B-vendor_phone",
+            "confidence": 0.03256668522953987,
+            "text": "Supplier Invoice Date",
+            "box_2d": [
+                709,
+                56,
+                870,
+                72
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.031573351472616196,
+            "text": "corcentric",
+            "box_2d": [
+                101,
+                75,
+                281,
+                96
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03362635150551796,
+            "text": "CPI007529595",
+            "box_2d": [
+                322,
+                80,
+                475,
+                101
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03067079186439514,
+            "text": "05/23/2025",
+            "box_2d": [
+                560,
+                75,
+                640,
+                89
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.030327005311846733,
+            "text": "05/23/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03309284523129463,
+            "text": "PO No.",
+            "box_2d": [
+                517,
+                92,
+                573,
+                108
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.033183008432388306,
+            "text": "PO Date",
+            "box_2d": [
+                709,
+                93,
+                773,
+                108
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.03156828507781029,
+            "text": "formerly AmeriQuest",
+            "box_2d": [
+                156,
+                100,
+                278,
+                110
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.031458452343940735,
+            "text": "Supplier Invoice #:",
+            "box_2d": [
+                338,
+                107,
+                459,
+                120
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03004930168390274,
+            "text": "51-188909",
+            "box_2d": [
+                560,
+                111,
+                636,
+                126
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03477072715759277,
+            "text": "N/A",
+            "box_2d": [
+                775,
+                112,
+                807,
+                124
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.032861512154340744,
+            "text": "DTI026961145",
+            "box_2d": [
+                354,
+                127,
+                443,
+                139
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.028604628518223763,
+            "text": "[Settlement Date",
+            "box_2d": [
+                516,
+                129,
+                636,
+                144
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03293192386627197,
+            "text": "Term of Sale",
+            "box_2d": [
+                709,
+                130,
+                805,
+                144
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.030060123652219772,
+            "text": "Originating Document Number",
+            "box_2d": [
+                305,
+                147,
+                494,
+                158
+            ]
+        },
+        {
+            "label": "I-purchase_order_id",
+            "confidence": 0.03229796513915062,
+            "text": "05/23/2025",
+            "box_2d": [
+                560,
+                146,
+                640,
+                161
+            ]
+        },
+        {
+            "label": "I-purchase_order_id",
+            "confidence": 0.034329161047935486,
+            "text": "STMT NET 7",
+            "box_2d": [
+                745,
+                150,
+                832,
+                161
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03720013424754143,
+            "text": "02P244069",
+            "box_2d": [
+                363,
+                166,
+                433,
+                178
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03524697571992874,
+            "text": "Statement Date",
+            "box_2d": [
+                519,
+                166,
+                632,
+                181
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.0346284881234169,
+            "text": "Due Date",
+            "box_2d": [
+                710,
+                166,
+                781,
+                181
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03455629199743271,
+            "text": "06/03/2025",
+            "box_2d": [
+                560,
+                183,
+                640,
+                198
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.034729041159152985,
+            "text": "06/11/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03247160464525223,
+            "text": "Invoice Header",
+            "box_2d": [
+                29,
+                214,
+                127,
+                226
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.04208412393927574,
+            "text": "Bill To:",
+            "box_2d": [
+                29,
+                233,
+                78,
+                244
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03442169725894928,
+            "text": "Ship To:",
+            "box_2d": [
+                298,
+                233,
+                354,
+                244
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.039407867938280106,
+            "text": "Remit To:",
+            "box_2d": [
+                593,
+                233,
+                658,
+                244
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03411800414323807,
+            "text": "LAIDLAW CARRIERS VAN GP, INC",
+            "box_2d": [
+                47,
+                242,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03928714990615845,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                317,
+                246,
+                490,
+                256
+            ]
+        },
+        {
+            "label": "I-item_amount",
+            "confidence": 0.033769454807043076,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                252,
+                179,
+                266
+            ]
+        },
+        {
+            "label": "I-item_amount",
+            "confidence": 0.03196472302079201,
+            "text": "80 Third Line",
+            "box_2d": [
+                316,
+                255,
+                397,
+                269
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.035270534455776215,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-item_amount",
+            "confidence": 0.030866460874676704,
+            "text": "PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.03250847011804581,
+            "text": "Hagersville, ON N0A 1H0",
+            "box_2d": [
+                316,
+                267,
+                467,
+                278
+            ]
+        },
+        {
+            "label": "I-item_amount",
+            "confidence": 0.03211231529712677,
+            "text": "C#: ZTFI29C-ZTFI29C",
+            "box_2d": [
+                47,
+                275,
+                181,
+                289
+            ]
+        },
+        {
+            "label": "I-item_amount",
+            "confidence": 0.030792344361543655,
+            "text": "C#: ZTFI29C-ZTFI29AC",
+            "box_2d": [
+                317,
+                280,
+                460,
+                290
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.035255491733551025,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.039297930896282196,
+            "text": "AC#: CPCC-ZTFI29",
+            "box_2d": [
+                47,
+                287,
+                167,
+                301
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03366534411907196,
+            "text": "Supplier:",
+            "box_2d": [
+                28,
+                300,
+                89,
+                311
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.030850719660520554,
+            "text": "Delivery Information:",
+            "box_2d": [
+                298,
+                297,
+                432,
+                312
+            ]
+        },
+        {
+            "label": "B-document_id",
+            "confidence": 0.02999861352145672,
+            "text": "Toronto, ON M5W 0E9",
+            "box_2d": [
+                611,
+                300,
+                749,
+                313
+            ]
+        },
+        {
+            "label": "I-recipient_name",
+            "confidence": 0.034708328545093536,
+            "text": "FLEET BOOST-BC",
+            "box_2d": [
+                46,
+                307,
+                163,
+                320
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03195672482252121,
+            "text": "Ship Date:05/23/2025",
+            "box_2d": [
+                316,
+                310,
+                447,
+                324
+            ]
+        },
+        {
+            "label": "B-document_id",
+            "confidence": 0.033932942897081375,
+            "text": "Phone:800-608-0809",
+            "box_2d": [
+                612,
+                313,
+                738,
+                324
+            ]
+        },
+        {
+            "label": "I-recipient_name",
+            "confidence": 0.03333200886845589,
+            "text": "200 Lake Drive East Ste 200",
+            "box_2d": [
+                47,
+                321,
+                215,
+                332
+            ]
+        },
+        {
+            "label": "I-item_amount",
+            "confidence": 0.02854575403034687,
+            "text": " Ship Via:Supplier",
+            "box_2d": [
+                315,
+                320,
+                422,
+                335
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03809944540262222,
+            "text": "ABA# 024156792",
+            "box_2d": [
+                612,
+                324,
+                717,
+                334
+            ]
+        },
+        {
+            "label": "B-vendor_phone",
+            "confidence": 0.030240466818213463,
+            "text": "CHERRY HILL, NJ 08002",
+            "box_2d": [
+                46,
+                331,
+                200,
+                344
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.02877921424806118,
+            "text": "Ship From:",
+            "box_2d": [
+                300,
+                334,
+                374,
+                346
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.030151013284921646,
+            "text": "Phone:(111) 111-1111",
+            "box_2d": [
+                46,
+                342,
+                180,
+                356
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03224959596991539,
+            "text": "METRO FREIGHTLINER BRANTFORD",
+            "box_2d": [
+                317,
+                346,
+                550,
+                356
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.0374128483235836,
+            "text": "ACCT# 50426205",
+            "box_2d": [
+                612,
+                346,
+                721,
+                359
+            ]
+        },
+        {
+            "label": "I-item_amount",
+            "confidence": 0.032170288264751434,
+            "text": "C#: CORCPFSC-CORCPFSC",
+            "box_2d": [
+                46,
+                353,
+                224,
+                367
+            ]
+        },
+        {
+            "label": "I-item_amount",
+            "confidence": 0.031260617077350616,
+            "text": "31 GARNET ROAD RR #8",
+            "box_2d": [
+                317,
+                357,
+                475,
+                367
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.0375923328101635,
+            "text": "AC#: CPVC-000005",
+            "box_2d": [
+                46,
+                367,
+                165,
+                378
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.030266929417848587,
+            "text": "BRANTFORD, ON N3T 5M1",
+            "box_2d": [
+                317,
+                368,
+                483,
+                379
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.02887527458369732,
+            "text": "Invoice Line Items",
+            "box_2d": [
+                27,
+                394,
+                148,
+                410
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.029083818197250366,
+            "text": "Type",
+            "box_2d": [
+                31,
+                441,
+                66,
+                453
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.030243270099163055,
+            "text": "Item",
+            "box_2d": [
+                83,
+                440,
+                115,
+                455
+            ]
+        },
+        {
+            "label": "I-item_quantity",
+            "confidence": 0.029607295989990234,
+            "text": "Description",
+            "box_2d": [
+                240,
+                441,
+                315,
+                453
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.028916729614138603,
+            "text": "UOM",
+            "box_2d": [
+                513,
+                441,
+                547,
+                453
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.0315391905605793,
+            "text": "Qty",
+            "box_2d": [
+                656,
+                441,
+                683,
+                453
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03162837401032448,
+            "text": "Unit Price",
+            "box_2d": [
+                701,
+                441,
+                766,
+                453
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.02808764949440956,
+            "text": "Ext. Price",
+            "box_2d": [
+                821,
+                441,
+                884,
+                453
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.04288609325885773,
+            "text": "P",
+            "box_2d": [
+                29,
+                460,
+                42,
+                472
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.032677240669727325,
+            "text": "HLD RK10700",
+            "box_2d": [
+                87,
+                460,
+                174,
+                472
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.03281364589929581,
+            "text": " KIT, ILS AIR CYLINDE",
+            "box_2d": [
+                237,
+                459,
+                376,
+                472
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.034625593572854996,
+            "text": "EA",
+            "box_2d": [
+                513,
+                460,
+                535,
+                472
+            ]
+        },
+        {
+            "label": "I-item_amount",
+            "confidence": 0.029564201831817627,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                460,
+                682,
+                472
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.030603190883994102,
+            "text": "279.9600",
+            "box_2d": [
+                708,
+                459,
+                769,
+                473
+            ]
+        },
+        {
+            "label": "B-vendor_phone",
+            "confidence": 0.034274011850357056,
+            "text": "279.96",
+            "box_2d": [
+                840,
+                459,
+                887,
+                473
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03264283388853073,
+            "text": "VMRS: 059-001-002",
+            "box_2d": [
+                87,
+                480,
+                209,
+                490
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.03630123287439346,
+            "text": "Total",
+            "box_2d": [
+                732,
+                495,
+                770,
+                509
+            ]
+        },
+        {
+            "label": "B-vendor_phone",
+            "confidence": 0.03329279273748398,
+            "text": "279.96",
+            "box_2d": [
+                840,
+                495,
+                884,
+                507
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.0335746705532074,
+            "text": "Summary Taxes",
+            "box_2d": [
+                27,
+                518,
+                134,
+                534
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.034497760236263275,
+            "text": "Tax Type",
+            "box_2d": [
+                28,
+                536,
+                90,
+                550
+            ]
+        },
+        {
+            "label": "I-tax_amount",
+            "confidence": 0.03208126127719879,
+            "text": "Tax ID",
+            "box_2d": [
+                235,
+                537,
+                278,
+                549
+            ]
+        },
+        {
+            "label": "I-item_quantity",
+            "confidence": 0.03309537097811699,
+            "text": "Description",
+            "box_2d": [
+                500,
+                537,
+                574,
+                549
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03514499589800835,
+            "text": "Amount",
+            "box_2d": [
+                831,
+                536,
+                888,
+                550
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.030674370005726814,
+            "text": "State/Provincial Tax",
+            "box_2d": [
+                29,
+                553,
+                150,
+                566
+            ]
+        },
+        {
+            "label": "I-purchase_order_id",
+            "confidence": 0.034939803183078766,
+            "text": "36.39",
+            "box_2d": [
+                849,
+                553,
+                887,
+                567
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.033775392919778824,
+            "text": "Total Summary Taxes:36.39",
+            "box_2d": [
+                709,
+                568,
+                884,
+                583
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03640305623412132,
+            "text": "References",
+            "box_2d": [
+                29,
+                589,
+                103,
+                601
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03518884629011154,
+            "text": "HST ID: R854340502RT001",
+            "box_2d": [
+                31,
+                610,
+                196,
+                620
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03548404574394226,
+            "text": "Invoice Totals",
+            "box_2d": [
+                25,
+                678,
+                120,
+                695
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03504199907183647,
+            "text": "Line Types",
+            "box_2d": [
+                65,
+                698,
+                141,
+                716
+            ]
+        },
+        {
+            "label": "I-tax_amount",
+            "confidence": 0.03421095013618469,
+            "text": "Type Totals",
+            "box_2d": [
+                311,
+                697,
+                394,
+                718
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03374909609556198,
+            "text": "Totals",
+            "box_2d": [
+                840,
+                701,
+                885,
+                715
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.038860052824020386,
+            "text": "F - Freight",
+            "box_2d": [
+                65,
+                717,
+                134,
+                735
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.039202768355607986,
+            "text": "0.00",
+            "box_2d": [
+                360,
+                720,
+                392,
+                732
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03191549703478813,
+            "text": "Line Item Total(Excl. Taxes)",
+            "box_2d": [
+                556,
+                720,
+                723,
+                733
+            ]
+        },
+        {
+            "label": "B-vendor_phone",
+            "confidence": 0.03373408690094948,
+            "text": "279.96",
+            "box_2d": [
+                840,
+                718,
+                885,
+                733
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03263475000858307,
+            "text": "L - Labor",
+            "box_2d": [
+                66,
+                737,
+                127,
+                752
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.036401260644197464,
+            "text": "0.00",
+            "box_2d": [
+                358,
+                736,
+                393,
+                752
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.033736035227775574,
+            "text": "Taxes",
+            "box_2d": [
+                556,
+                736,
+                599,
+                750
+            ]
+        },
+        {
+            "label": "I-purchase_order_id",
+            "confidence": 0.03334204852581024,
+            "text": "36.39",
+            "box_2d": [
+                845,
+                736,
+                885,
+                750
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.031883783638477325,
+            "text": "[M- Miscellaneous",
+            "box_2d": [
+                66,
+                753,
+                176,
+                769
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.035420067608356476,
+            "text": "0.00",
+            "box_2d": [
+                361,
+                756,
+                392,
+                768
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03113614022731781,
+            "text": "[Total FET Tax",
+            "box_2d": [
+                554,
+                752,
+                644,
+                769
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.0349542498588562,
+            "text": "0.00",
+            "box_2d": [
+                853,
+                752,
+                885,
+                770
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.0355096310377121,
+            "text": "P - Parts",
+            "box_2d": [
+                65,
+                770,
+                125,
+                787
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.03181229531764984,
+            "text": "279.96",
+            "box_2d": [
+                345,
+                772,
+                393,
+                787
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.032819394022226334,
+            "text": "Total : CAD",
+            "box_2d": [
+                558,
+                773,
+                632,
+                785
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.02934703417122364,
+            "text": "$316.35",
+            "box_2d": [
+                831,
+                772,
+                885,
+                787
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.03156251087784767,
+            "text": "S - Shop",
+            "box_2d": [
+                66,
+                790,
+                126,
+                805
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.03916401416063309,
+            "text": "0.00",
+            "box_2d": [
+                360,
+                791,
+                392,
+                804
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.03409331664443016,
+            "text": "Administrative Fee",
+            "box_2d": [
+                556,
+                789,
+                671,
+                805
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.031954191625118256,
+            "text": "$1.00",
+            "box_2d": [
+                845,
+                790,
+                885,
+                805
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.035157036036252975,
+            "text": "U - Sublet",
+            "box_2d": [
+                66,
+                808,
+                133,
+                823
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.041227541863918304,
+            "text": "0.00",
+            "box_2d": [
+                361,
+                809,
+                392,
+                821
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.030598243698477745,
+            "text": "Settlement Amount",
+            "box_2d": [
+                556,
+                807,
+                681,
+                823
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.03059208393096924,
+            "text": "$317.35",
+            "box_2d": [
+                831,
+                808,
+                885,
+                823
+            ]
+        },
+        {
+            "label": "I-amount_total_tax",
+            "confidence": 0.030908191576600075,
+            "text": "Line Item Total",
+            "box_2d": [
+                69,
+                827,
+                164,
+                839
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.03489308059215546,
+            "text": "$279.96",
+            "box_2d": [
+                339,
+                826,
+                393,
+                840
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.029139690101146698,
+            "text": "*The dates displayed on the invoice are based on U.S. Eastern Time Zone.",
+            "box_2d": [
+                35,
+                853,
+                469,
+                866
+            ]
+        }
+    ]
+}

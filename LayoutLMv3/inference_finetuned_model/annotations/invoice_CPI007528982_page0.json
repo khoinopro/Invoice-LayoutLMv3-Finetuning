@@ -1,0 +1,324 @@
+{
+    "image": "invoice_CPI007528982_page0.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8894603252410889,
+            "text": "CPI007528982",
+            "box_2d": [
+                322,
+                80,
+                475,
+                101
+            ]
+        },
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8887364268302917,
+            "text": "05/23/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8835015892982483,
+            "text": "54-188977",
+            "box_2d": [
+                560,
+                111,
+                636,
+                126
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.574861466884613,
+            "text": "STMT NET 7",
+            "box_2d": [
+                744,
+                149,
+                831,
+                160
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8407782912254333,
+            "text": "06/11/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.35981112718582153,
+            "text": "LAIDLAW CARRIERS VAN GP, INC",
+            "box_2d": [
+                47,
+                242,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6340282559394836,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                316,
+                243,
+                491,
+                257
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8716726303100586,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                614,
+                244,
+                706,
+                256
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.39593765139579773,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                252,
+                179,
+                266
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.5983136892318726,
+            "text": "31 Garnet Rd",
+            "box_2d": [
+                316,
+                256,
+                399,
+                267
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.8000672459602356,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.9519262313842773,
+            "text": "PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9646075367927551,
+            "text": "Brantford, ON N3T 5M1",
+            "box_2d": [
+                316,
+                266,
+                456,
+                279
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9774633646011353,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9789197444915771,
+            "text": "Toronto, ON M5W 0E9",
+            "box_2d": [
+                611,
+                300,
+                749,
+                313
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.776965320110321,
+            "text": "A 000 446 35 49",
+            "box_2d": [
+                83,
+                459,
+                194,
+                472
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8737251162528992,
+            "text": "SENSOR -2HIGH(P) -6P",
+            "box_2d": [
+                240,
+                461,
+                385,
+                472
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.888597846031189,
+            "text": "EA",
+            "box_2d": [
+                513,
+                460,
+                535,
+                472
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8579515218734741,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                460,
+                682,
+                472
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8960285186767578,
+            "text": "843.4300",
+            "box_2d": [
+                708,
+                461,
+                767,
+                472
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9017537236213684,
+            "text": "1013.73",
+            "box_2d": [
+                835,
+                461,
+                884,
+                472
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.8328424096107483,
+            "text": "VMRS: 036-001-032",
+            "box_2d": [
+                85,
+                480,
+                207,
+                490
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.8592994809150696,
+            "text": "Unit Core",
+            "box_2d": [
+                84,
+                492,
+                145,
+                509
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.8533855676651001,
+            "text": "170.3000",
+            "box_2d": [
+                179,
+                495,
+                236,
+                507
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.8607749342918396,
+            "text": "131.78",
+            "box_2d": [
+                843,
+                570,
+                885,
+                582
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.47581160068511963,
+            "text": "HST ID: R854340502RT001",
+            "box_2d": [
+                29,
+                626,
+                198,
+                639
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.3580044209957123,
+            "text": "1,013.73",
+            "box_2d": [
+                829,
+                735,
+                885,
+                750
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.21486614644527435,
+            "text": "131.78",
+            "box_2d": [
+                838,
+                753,
+                885,
+                767
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.1813885122537613,
+            "text": "1,013.73",
+            "box_2d": [
+                334,
+                789,
+                392,
+                804
+            ]
+        }
+    ]
+}

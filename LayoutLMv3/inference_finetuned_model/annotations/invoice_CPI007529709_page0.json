@@ -1,0 +1,335 @@
+{
+    "image": "invoice_CPI007529709_page0.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8939953446388245,
+            "text": "CPI007529709",
+            "box_2d": [
+                322,
+                80,
+                475,
+                101
+            ]
+        },
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8893091082572937,
+            "text": "05/22/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8813909292221069,
+            "text": "61-188722",
+            "box_2d": [
+                560,
+                111,
+                636,
+                126
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.736160933971405,
+            "text": "Net 30 Days",
+            "box_2d": [
+                747,
+                149,
+                832,
+                160
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.83986496925354,
+            "text": "06/22/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.3189990818500519,
+            "text": " LAIDLAW CARRIERS VAN GP, INC",
+            "box_2d": [
+                44,
+                241,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6031320095062256,
+            "text": " LAIDLAW CARRIERS VAN GP, INC.",
+            "box_2d": [
+                315,
+                243,
+                534,
+                257
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8710756897926331,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                614,
+                244,
+                706,
+                256
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.5287611484527588,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                253,
+                179,
+                265
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.6204767227172852,
+            "text": "2101 SHANLY ROAD",
+            "box_2d": [
+                316,
+                255,
+                448,
+                268
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.8162103295326233,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.9509497284889221,
+            "text": "PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.969894528388977,
+            "text": "CARDINAL, ON K0E 1E0",
+            "box_2d": [
+                316,
+                266,
+                469,
+                280
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9776872992515564,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9787200093269348,
+            "text": "Toronto,ON M5W 0E9",
+            "box_2d": [
+                610,
+                301,
+                747,
+                311
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8554304242134094,
+            "text": "K078219BXW",
+            "box_2d": [
+                87,
+                510,
+                172,
+                521
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8782543540000916,
+            "text": "VALVE-ATC ABS",
+            "box_2d": [
+                237,
+                509,
+                346,
+                523
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8912602066993713,
+            "text": "Each",
+            "box_2d": [
+                513,
+                510,
+                547,
+                523
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.856632649898529,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                510,
+                682,
+                523
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8865437507629395,
+            "text": "495.0800",
+            "box_2d": [
+                709,
+                510,
+                767,
+                521
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9022417664527893,
+            "text": "495.08",
+            "box_2d": [
+                840,
+                510,
+                885,
+                521
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.8197576403617859,
+            "text": "VMRS: 013-114-011",
+            "box_2d": [
+                85,
+                527,
+                209,
+                541
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7753572463989258,
+            "text": "HST Tax",
+            "box_2d": [
+                29,
+                604,
+                85,
+                615
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.8415201902389526,
+            "text": "899544779",
+            "box_2d": [
+                235,
+                604,
+                304,
+                615
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.855019748210907,
+            "text": "64.36",
+            "box_2d": [
+                849,
+                604,
+                885,
+                615
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.3614204525947571,
+            "text": "495.08",
+            "box_2d": [
+                840,
+                793,
+                885,
+                808
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.298483282327652,
+            "text": "64.36",
+            "box_2d": [
+                845,
+                811,
+                885,
+                826
+            ]
+        },
+        {
+            "label": "B-document_id",
+            "confidence": 0.15606454014778137,
+            "text": "495.08",
+            "box_2d": [
+                345,
+                847,
+                393,
+                862
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.34107643365859985,
+            "text": "S - Shop",
+            "box_2d": [
+                66,
+                865,
+                126,
+                880
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.20877662301063538,
+            "text": "0.00",
+            "box_2d": [
+                360,
+                866,
+                392,
+                879
+            ]
+        }
+    ]
+}

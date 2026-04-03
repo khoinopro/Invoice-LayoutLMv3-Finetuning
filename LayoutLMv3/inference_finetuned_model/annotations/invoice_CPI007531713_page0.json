@@ -1,0 +1,401 @@
+{
+    "image": "invoice_CPI007531713_page0.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8958153128623962,
+            "text": "CPI007531713",
+            "box_2d": [
+                322,
+                80,
+                475,
+                102
+            ]
+        },
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8868096470832825,
+            "text": "05/20/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8804869651794434,
+            "text": "62187099",
+            "box_2d": [
+                565,
+                113,
+                634,
+                124
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.5771518349647522,
+            "text": "STMT NET 7",
+            "box_2d": [
+                745,
+                150,
+                832,
+                161
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8380532264709473,
+            "text": "06/11/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_name",
+            "confidence": 0.339013934135437,
+            "text": " LAIDLAW CARRIERS VAN GP, INC.",
+            "box_2d": [
+                46,
+                241,
+                263,
+                255
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6663483381271362,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                317,
+                246,
+                490,
+                256
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8684861660003662,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                612,
+                244,
+                706,
+                255
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.36121559143066406,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                252,
+                179,
+                266
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.6530657410621643,
+            "text": "1250 Rue Industrielle",
+            "box_2d": [
+                317,
+                255,
+                445,
+                268
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.7866783142089844,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.9510553479194641,
+            "text": "PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9623703360557556,
+            "text": "La Prairie, QC J5R 2E4",
+            "box_2d": [
+                317,
+                268,
+                456,
+                279
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9746726751327515,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9782237410545349,
+            "text": "Toronto,ON M5W 0E9",
+            "box_2d": [
+                610,
+                301,
+                747,
+                311
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8419338464736938,
+            "text": "RC ACC3414",
+            "box_2d": [
+                87,
+                467,
+                168,
+                479
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8557838201522827,
+            "text": "AC COMP",
+            "box_2d": [
+                239,
+                466,
+                304,
+                481
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8961866497993469,
+            "text": "EA",
+            "box_2d": [
+                513,
+                466,
+                535,
+                481
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8582888841629028,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                467,
+                682,
+                480
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.9012756943702698,
+            "text": "338.9500",
+            "box_2d": [
+                708,
+                466,
+                769,
+                481
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.907247006893158,
+            "text": "338.95",
+            "box_2d": [
+                840,
+                466,
+                885,
+                481
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.834640622138977,
+            "text": "RC RD12095",
+            "box_2d": [
+                87,
+                486,
+                167,
+                498
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8725085854530334,
+            "text": "RECEIVER DRYER",
+            "box_2d": [
+                239,
+                485,
+                360,
+                498
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8965317010879517,
+            "text": "EA",
+            "box_2d": [
+                514,
+                483,
+                533,
+                500
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8593948483467102,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                486,
+                682,
+                498
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.9005202054977417,
+            "text": "32.9500",
+            "box_2d": [
+                714,
+                485,
+                769,
+                500
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9014055728912354,
+            "text": "32.95",
+            "box_2d": [
+                847,
+                486,
+                885,
+                500
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7736534476280212,
+            "text": "GST Tax",
+            "box_2d": [
+                28,
+                562,
+                87,
+                576
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.8627902269363403,
+            "text": "18.60",
+            "box_2d": [
+                847,
+                562,
+                888,
+                576
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7401400208473206,
+            "text": "QST Tax",
+            "box_2d": [
+                29,
+                581,
+                87,
+                592
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.8351422548294067,
+            "text": "823705181RT0001",
+            "box_2d": [
+                233,
+                580,
+                349,
+                593
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.8563387393951416,
+            "text": "37.10",
+            "box_2d": [
+                847,
+                581,
+                885,
+                592
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.29395756125450134,
+            "text": "371.90",
+            "box_2d": [
+                838,
+                786,
+                885,
+                801
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.22488188743591309,
+            "text": "55.70",
+            "box_2d": [
+                845,
+                805,
+                885,
+                820
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.19887104630470276,
+            "text": "371.90",
+            "box_2d": [
+                345,
+                840,
+                393,
+                855
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.5035548806190491,
+            "text": "s - Shop",
+            "box_2d": [
+                65,
+                856,
+                125,
+                875
+            ]
+        }
+    ]
+}

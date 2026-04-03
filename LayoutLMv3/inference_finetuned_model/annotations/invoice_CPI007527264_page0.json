@@ -1,0 +1,291 @@
+{
+    "image": "invoice_CPI007527264_page0.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8963489532470703,
+            "text": "CPI007527264",
+            "box_2d": [
+                322,
+                80,
+                475,
+                101
+            ]
+        },
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8882461190223694,
+            "text": "05/22/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8753488659858704,
+            "text": "50-748119",
+            "box_2d": [
+                562,
+                113,
+                636,
+                124
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.41044068336486816,
+            "text": "2% Net 30 - EFT",
+            "box_2d": [
+                734,
+                149,
+                847,
+                162
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8413710594177246,
+            "text": "06/23/2025",
+            "box_2d": [
+                752,
+                185,
+                829,
+                196
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.339347243309021,
+            "text": "LAIDLAW CARRIERS VAN GP, INC",
+            "box_2d": [
+                46,
+                241,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6222732663154602,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                317,
+                246,
+                490,
+                256
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.870250403881073,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                614,
+                244,
+                706,
+                256
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.50432288646698,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                47,
+                255,
+                179,
+                265
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.5184195637702942,
+            "text": "80 Third Line",
+            "box_2d": [
+                317,
+                256,
+                398,
+                267
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.807988166809082,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.9457241296768188,
+            "text": "PUSLINCH,ON N0B 2J0",
+            "box_2d": [
+                47,
+                265,
+                195,
+                275
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9671155214309692,
+            "text": "Hagersville, ON N0A 1H0",
+            "box_2d": [
+                316,
+                267,
+                467,
+                279
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9764116406440735,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9785633683204651,
+            "text": "Toronto,ON M5W 0E9",
+            "box_2d": [
+                610,
+                301,
+                747,
+                311
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.85826575756073,
+            "text": "088120000",
+            "box_2d": [
+                87,
+                511,
+                154,
+                523
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8771466016769409,
+            "text": "WHEEL TORQUE",
+            "box_2d": [
+                239,
+                510,
+                349,
+                524
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8875530958175659,
+            "text": "LH",
+            "box_2d": [
+                512,
+                510,
+                535,
+                524
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8499252200126648,
+            "text": "10.00",
+            "box_2d": [
+                645,
+                511,
+                683,
+                524
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8929292559623718,
+            "text": "10.0000",
+            "box_2d": [
+                714,
+                510,
+                769,
+                524
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9007015228271484,
+            "text": "100.00",
+            "box_2d": [
+                840,
+                510,
+                887,
+                524
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7528243064880371,
+            "text": "HST Tax",
+            "box_2d": [
+                28,
+                584,
+                86,
+                602
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.8287681341171265,
+            "text": "118941806",
+            "box_2d": [
+                236,
+                588,
+                304,
+                600
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.858540952205658,
+            "text": "13.00",
+            "box_2d": [
+                850,
+                588,
+                885,
+                601
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.2487206757068634,
+            "text": "13.00",
+            "box_2d": [
+                847,
+                846,
+                885,
+                860
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.23122988641262054,
+            "text": "$1.00",
+            "box_2d": [
+                845,
+                900,
+                885,
+                915
+            ]
+        }
+    ]
+}

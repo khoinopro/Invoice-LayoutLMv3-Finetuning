@@ -1,0 +1,445 @@
+{
+    "image": "invoice_CPI007530918_page0.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8940337896347046,
+            "text": "CPI007530918",
+            "box_2d": [
+                322,
+                80,
+                475,
+                102
+            ]
+        },
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8895160555839539,
+            "text": "05/23/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.883359968662262,
+            "text": "51-189088",
+            "box_2d": [
+                560,
+                111,
+                638,
+                126
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.5988060235977173,
+            "text": "STMT NET 7",
+            "box_2d": [
+                744,
+                149,
+                831,
+                160
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8421054482460022,
+            "text": "06/11/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.3502542972564697,
+            "text": "LAIDLAW CARRIERS VAN GP, INC",
+            "box_2d": [
+                46,
+                241,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6180686950683594,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                317,
+                246,
+                490,
+                256
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.871170699596405,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                614,
+                244,
+                706,
+                256
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.43365877866744995,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                252,
+                179,
+                266
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.6619767546653748,
+            "text": "80 Third Line",
+            "box_2d": [
+                316,
+                255,
+                397,
+                269
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.5699706077575684,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.9504544138908386,
+            "text": "PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.970436692237854,
+            "text": "Hagersville, ON N0A 1H0",
+            "box_2d": [
+                316,
+                267,
+                467,
+                278
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9781658053398132,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9788634181022644,
+            "text": "Toronto, ON M5W 0E9",
+            "box_2d": [
+                611,
+                300,
+                749,
+                313
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8632508516311646,
+            "text": "DDE A4720921705",
+            "box_2d": [
+                85,
+                459,
+                202,
+                472
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.862143337726593,
+            "text": "KIT, FUEL FILTERS AN",
+            "box_2d": [
+                239,
+                461,
+                381,
+                472
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.9000411629676819,
+            "text": "EA",
+            "box_2d": [
+                513,
+                460,
+                536,
+                472
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8517585396766663,
+            "text": "2.00",
+            "box_2d": [
+                650,
+                460,
+                682,
+                472
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8968360424041748,
+            "text": "108.0000",
+            "box_2d": [
+                708,
+                458,
+                768,
+                475
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9042483568191528,
+            "text": "216.00",
+            "box_2d": [
+                840,
+                459,
+                887,
+                473
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.763267457485199,
+            "text": "VMRS: 044-002-002",
+            "box_2d": [
+                87,
+                480,
+                207,
+                490
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.7574208378791809,
+            "text": "DDE A4711800209",
+            "box_2d": [
+                85,
+                494,
+                203,
+                508
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.7852031588554382,
+            "text": "KIT,OIL FILTER WITH",
+            "box_2d": [
+                240,
+                496,
+                376,
+                507
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8982932567596436,
+            "text": "EA",
+            "box_2d": [
+                513,
+                494,
+                535,
+                508
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8503652811050415,
+            "text": "2.00",
+            "box_2d": [
+                650,
+                495,
+                683,
+                508
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8954848051071167,
+            "text": "32.0000",
+            "box_2d": [
+                716,
+                495,
+                767,
+                507
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9008136987686157,
+            "text": "64.00",
+            "box_2d": [
+                846,
+                494,
+                887,
+                509
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.856616199016571,
+            "text": "VMRS: 045-011-005",
+            "box_2d": [
+                85,
+                513,
+                210,
+                527
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8049708604812622,
+            "text": "03-42776-010",
+            "box_2d": [
+                85,
+                531,
+                170,
+                542
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8587294220924377,
+            "text": " FILTER ELEMENT-AIR",
+            "box_2d": [
+                237,
+                529,
+                378,
+                542
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8873692154884338,
+            "text": "EA",
+            "box_2d": [
+                513,
+                530,
+                535,
+                543
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8375625610351562,
+            "text": "3.00",
+            "box_2d": [
+                652,
+                531,
+                683,
+                543
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8946959376335144,
+            "text": "116.8500",
+            "box_2d": [
+                709,
+                531,
+                767,
+                542
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.8973098397254944,
+            "text": "350.55",
+            "box_2d": [
+                840,
+                531,
+                885,
+                542
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.6100667119026184,
+            "text": "VMRS: 041-001-005",
+            "box_2d": [
+                85,
+                549,
+                209,
+                563
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7091169357299805,
+            "text": "State/Provincial Tax",
+            "box_2d": [
+                28,
+                624,
+                149,
+                637
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.8423211574554443,
+            "text": "81.97",
+            "box_2d": [
+                849,
+                624,
+                887,
+                637
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.23731538653373718,
+            "text": "630.55",
+            "box_2d": [
+                838,
+                789,
+                885,
+                804
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.14646972715854645,
+            "text": "81.97",
+            "box_2d": [
+                845,
+                807,
+                885,
+                821
+            ]
+        }
+    ]
+}

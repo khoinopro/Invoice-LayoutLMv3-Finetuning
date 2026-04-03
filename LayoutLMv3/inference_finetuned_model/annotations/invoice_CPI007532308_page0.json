@@ -1,0 +1,291 @@
+{
+    "image": "invoice_CPI007532308_page0.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8953434228897095,
+            "text": "CPI007532308",
+            "box_2d": [
+                322,
+                80,
+                475,
+                101
+            ]
+        },
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8892202973365784,
+            "text": "05/24/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.881987452507019,
+            "text": "65-188914",
+            "box_2d": [
+                560,
+                111,
+                636,
+                126
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.5300713777542114,
+            "text": "STMT NET 7",
+            "box_2d": [
+                744,
+                147,
+                834,
+                162
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8410086631774902,
+            "text": "06/11/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.3474673628807068,
+            "text": "LAIDLAW CARRIERS VAN GP,INC",
+            "box_2d": [
+                47,
+                242,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6053163409233093,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                317,
+                246,
+                490,
+                256
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8708892464637756,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                614,
+                244,
+                706,
+                256
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.3977052867412567,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                252,
+                179,
+                266
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.7095128297805786,
+            "text": "5400 Walker Rd.",
+            "box_2d": [
+                317,
+                256,
+                415,
+                267
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.7642738819122314,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.950934112071991,
+            "text": " PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9661678075790405,
+            "text": "Oldcastle, ON NOR 1L0",
+            "box_2d": [
+                316,
+                265,
+                458,
+                279
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9768020510673523,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9788510799407959,
+            "text": "Toronto, ON M5W 0E9",
+            "box_2d": [
+                611,
+                300,
+                749,
+                313
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.7667810320854187,
+            "text": "ABP N82 7624",
+            "box_2d": [
+                87,
+                500,
+                176,
+                511
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8605698943138123,
+            "text": "WIPER BLADE ASSEMBLY",
+            "box_2d": [
+                239,
+                498,
+                406,
+                512
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8949900269508362,
+            "text": "EA",
+            "box_2d": [
+                513,
+                498,
+                535,
+                512
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8481090664863586,
+            "text": "20.00",
+            "box_2d": [
+                645,
+                498,
+                683,
+                512
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8896670341491699,
+            "text": "6.4500",
+            "box_2d": [
+                723,
+                500,
+                767,
+                511
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9062854647636414,
+            "text": "129.00",
+            "box_2d": [
+                840,
+                500,
+                885,
+                511
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.8487451076507568,
+            "text": "VMRS: 002-035-015",
+            "box_2d": [
+                85,
+                517,
+                210,
+                531
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7296054363250732,
+            "text": "HST Tax",
+            "box_2d": [
+                28,
+                589,
+                86,
+                606
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.8486366868019104,
+            "text": "16.77",
+            "box_2d": [
+                850,
+                592,
+                885,
+                605
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.31210795044898987,
+            "text": "129.00",
+            "box_2d": [
+                838,
+                757,
+                885,
+                772
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.2169249802827835,
+            "text": "16.77",
+            "box_2d": [
+                847,
+                776,
+                885,
+                790
+            ]
+        }
+    ]
+}

@@ -1,0 +1,357 @@
+{
+    "image": "invoice_CPI007529614_page0.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8962054252624512,
+            "text": "CPI007529614",
+            "box_2d": [
+                322,
+                80,
+                475,
+                101
+            ]
+        },
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8887562155723572,
+            "text": "05/22/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8835482597351074,
+            "text": "67-188530",
+            "box_2d": [
+                563,
+                113,
+                636,
+                124
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.7184386849403381,
+            "text": "Net 30 Days",
+            "box_2d": [
+                749,
+                150,
+                834,
+                161
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8409891128540039,
+            "text": "06/22/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.3373926877975464,
+            "text": "LAIDLAW CARRIERS VAN GP, INC",
+            "box_2d": [
+                47,
+                242,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6522181630134583,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                317,
+                246,
+                490,
+                256
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8741940855979919,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                614,
+                244,
+                706,
+                256
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.5362120866775513,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                252,
+                179,
+                266
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.8125607967376709,
+            "text": "2246 Bowman St.",
+            "box_2d": [
+                317,
+                256,
+                422,
+                268
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.5696111917495728,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.9489907026290894,
+            "text": "PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9702662825584412,
+            "text": "Innisfil, ON L9S 3V5",
+            "box_2d": [
+                316,
+                266,
+                439,
+                280
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9777337908744812,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9790403842926025,
+            "text": "Toronto, ON M5W 0E9",
+            "box_2d": [
+                611,
+                300,
+                749,
+                313
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8545655608177185,
+            "text": "P27-1153-100",
+            "box_2d": [
+                87,
+                500,
+                172,
+                511
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8649404644966125,
+            "text": "SWITCH-PB HEADLAMP SELECTOR",
+            "box_2d": [
+                240,
+                500,
+                464,
+                510
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8876155018806458,
+            "text": "Each",
+            "box_2d": [
+                513,
+                500,
+                547,
+                512
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8526292443275452,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                498,
+                683,
+                511
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.901472270488739,
+            "text": "75.3500",
+            "box_2d": [
+                716,
+                500,
+                767,
+                511
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.897770881652832,
+            "text": "75.35",
+            "box_2d": [
+                847,
+                500,
+                885,
+                511
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.7809701561927795,
+            "text": "VMRS: 034-007-001",
+            "box_2d": [
+                85,
+                517,
+                207,
+                531
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7686913013458252,
+            "text": "HST Tax",
+            "box_2d": [
+                28,
+                591,
+                87,
+                606
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.8453335165977478,
+            "text": "899544779",
+            "box_2d": [
+                235,
+                592,
+                304,
+                604
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.8517132997512817,
+            "text": "9.80",
+            "box_2d": [
+                855,
+                592,
+                887,
+                605
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.3575127124786377,
+            "text": "75.35",
+            "box_2d": [
+                845,
+                782,
+                885,
+                798
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.32569432258605957,
+            "text": "9.80",
+            "box_2d": [
+                851,
+                800,
+                885,
+                815
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.2258824110031128,
+            "text": "P - Parts",
+            "box_2d": [
+                65,
+                835,
+                125,
+                852
+            ]
+        },
+        {
+            "label": "B-document_id",
+            "confidence": 0.24177120625972748,
+            "text": "75.35",
+            "box_2d": [
+                352,
+                836,
+                393,
+                850
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.22570565342903137,
+            "text": "$85.15",
+            "box_2d": [
+                840,
+                836,
+                885,
+                850
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.2460765540599823,
+            "text": "S - Shop",
+            "box_2d": [
+                66,
+                855,
+                126,
+                869
+            ]
+        },
+        {
+            "label": "I-item_description",
+            "confidence": 0.2233172357082367,
+            "text": "0.00",
+            "box_2d": [
+                358,
+                853,
+                393,
+                869
+            ]
+        }
+    ]
+}

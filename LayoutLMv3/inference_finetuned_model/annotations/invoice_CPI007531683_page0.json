@@ -1,0 +1,522 @@
+{
+    "image": "invoice_CPI007531683_page0.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8965820074081421,
+            "text": "CPI007531683",
+            "box_2d": [
+                322,
+                80,
+                475,
+                102
+            ]
+        },
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8872635960578918,
+            "text": "05/20/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8713812828063965,
+            "text": "6285253",
+            "box_2d": [
+                567,
+                111,
+                632,
+                126
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.6310187578201294,
+            "text": "STMT NET 7",
+            "box_2d": [
+                744,
+                149,
+                831,
+                160
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8394176959991455,
+            "text": "06/11/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.3569920063018799,
+            "text": "LAIDLAW CARRIERS VAN GP, INC",
+            "box_2d": [
+                46,
+                241,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6390712857246399,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                317,
+                246,
+                490,
+                256
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8694934248924255,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                614,
+                244,
+                706,
+                256
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.4713379442691803,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                47,
+                255,
+                179,
+                265
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.6870551109313965,
+            "text": "1250 Rue Industrielle",
+            "box_2d": [
+                318,
+                253,
+                443,
+                269
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.8205349445343018,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.9492377042770386,
+            "text": "PUSLINCH,ON N0B 2J0",
+            "box_2d": [
+                46,
+                264,
+                194,
+                275
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9691554307937622,
+            "text": "La Prairie, QC J5R 2E4",
+            "box_2d": [
+                316,
+                266,
+                458,
+                280
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9749898314476013,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9778165221214294,
+            "text": "Toronto,ON M5W 0E9",
+            "box_2d": [
+                610,
+                301,
+                747,
+                311
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8716052770614624,
+            "text": "21965006",
+            "box_2d": [
+                85,
+                467,
+                148,
+                479
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8713725805282593,
+            "text": "GASKET",
+            "box_2d": [
+                237,
+                466,
+                297,
+                481
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8978167176246643,
+            "text": "EA",
+            "box_2d": [
+                513,
+                466,
+                535,
+                481
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8529541492462158,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                467,
+                682,
+                480
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8979166746139526,
+            "text": "53.5400",
+            "box_2d": [
+                714,
+                466,
+                769,
+                481
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9061896800994873,
+            "text": "53.54",
+            "box_2d": [
+                846,
+                466,
+                887,
+                481
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.870886504650116,
+            "text": "21060426",
+            "box_2d": [
+                85,
+                486,
+                148,
+                498
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8716872334480286,
+            "text": "V-BAND CLAMP",
+            "box_2d": [
+                240,
+                486,
+                339,
+                498
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8982865810394287,
+            "text": "EA",
+            "box_2d": [
+                513,
+                486,
+                535,
+                500
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8570035696029663,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                486,
+                683,
+                498
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8997637629508972,
+            "text": "44.9800",
+            "box_2d": [
+                714,
+                485,
+                767,
+                500
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9045590162277222,
+            "text": "44.98",
+            "box_2d": [
+                846,
+                485,
+                887,
+                500
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.869019091129303,
+            "text": "22206133",
+            "box_2d": [
+                85,
+                506,
+                148,
+                517
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8721164464950562,
+            "text": "PLANE GASKET",
+            "box_2d": [
+                239,
+                506,
+                343,
+                518
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8990491032600403,
+            "text": "EA",
+            "box_2d": [
+                513,
+                505,
+                535,
+                518
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8549196720123291,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                506,
+                683,
+                518
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8971825838088989,
+            "text": "5.1200",
+            "box_2d": [
+                723,
+                506,
+                767,
+                517
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.8797523975372314,
+            "text": "5.12",
+            "box_2d": [
+                854,
+                506,
+                885,
+                518
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8605800271034241,
+            "text": "20707685",
+            "box_2d": [
+                85,
+                524,
+                148,
+                536
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8678265810012817,
+            "text": "PLANE GASKET",
+            "box_2d": [
+                239,
+                524,
+                343,
+                537
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.894460916519165,
+            "text": "EA",
+            "box_2d": [
+                513,
+                524,
+                535,
+                537
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8495491743087769,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                524,
+                683,
+                537
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8967881202697754,
+            "text": "15.6800",
+            "box_2d": [
+                716,
+                524,
+                767,
+                536
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.8938819169998169,
+            "text": "15.68",
+            "box_2d": [
+                846,
+                524,
+                887,
+                538
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7572174668312073,
+            "text": "GST Tax",
+            "box_2d": [
+                29,
+                601,
+                85,
+                613
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.8468446731567383,
+            "text": "5.97",
+            "box_2d": [
+                855,
+                601,
+                885,
+                614
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.703165590763092,
+            "text": "QST Tax",
+            "box_2d": [
+                29,
+                618,
+                87,
+                630
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.8255317807197571,
+            "text": "823705181RT0001",
+            "box_2d": [
+                233,
+                617,
+                349,
+                631
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.8507792949676514,
+            "text": "11.90",
+            "box_2d": [
+                849,
+                618,
+                885,
+                630
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.2582280933856964,
+            "text": "119.32",
+            "box_2d": [
+                837,
+                822,
+                884,
+                840
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.2698792517185211,
+            "text": "17.87",
+            "box_2d": [
+                845,
+                842,
+                885,
+                857
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.25901997089385986,
+            "text": "$119.32",
+            "box_2d": [
+                337,
+                932,
+                393,
+                946
+            ]
+        }
+    ]
+}

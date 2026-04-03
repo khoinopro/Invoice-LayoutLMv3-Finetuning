@@ -1,7 +1,5 @@
 # Models and weights
 LayoutLMv3/src/model.bin
-LayoutLMv3/inference_finetuned_model/
-LayoutLMv3/inference_base_model/
 
 # Data and Visualizations (Optional: keeping small samples is OK, but huge ones should be ignored)
 # If these contain sensitive invoices, you should keep them ignored.

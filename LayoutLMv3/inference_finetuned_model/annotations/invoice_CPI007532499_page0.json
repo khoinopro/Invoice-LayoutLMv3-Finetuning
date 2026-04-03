@@ -1,0 +1,368 @@
+{
+    "image": "invoice_CPI007532499_page0.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8934788107872009,
+            "text": "CPI007532499",
+            "box_2d": [
+                322,
+                80,
+                475,
+                102
+            ]
+        },
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8888039588928223,
+            "text": "05/24/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8836128115653992,
+            "text": "57-189054",
+            "box_2d": [
+                560,
+                111,
+                636,
+                126
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.5901098251342773,
+            "text": "STMT NET 7",
+            "box_2d": [
+                744,
+                149,
+                831,
+                160
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.841260552406311,
+            "text": "06/11/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.3181241452693939,
+            "text": "LAIDLAW CARRIERS VAN GP, INC",
+            "box_2d": [
+                46,
+                241,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.5962140560150146,
+            "text": "LAIDLAW CARRIERS VAN GP, INC.",
+            "box_2d": [
+                315,
+                242,
+                534,
+                257
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8678242564201355,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                612,
+                244,
+                706,
+                255
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.3832956552505493,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                252,
+                179,
+                266
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.851873517036438,
+            "text": "7236 COLONEL TALBOT ROAD",
+            "box_2d": [
+                317,
+                255,
+                512,
+                268
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.6504145860671997,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.9431286454200745,
+            "text": " PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9469163417816162,
+            "text": "LONDON,ON N6L 1H8",
+            "box_2d": [
+                317,
+                267,
+                459,
+                278
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9764814972877502,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9772835373878479,
+            "text": "Toronto,ON M5W 0E9",
+            "box_2d": [
+                610,
+                301,
+                747,
+                311
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8302222490310669,
+            "text": "03-43216-010",
+            "box_2d": [
+                85,
+                500,
+                170,
+                511
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.863556444644928,
+            "text": "AIR FILTER SERVICE P",
+            "box_2d": [
+                239,
+                498,
+                387,
+                512
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.897955060005188,
+            "text": "EA",
+            "box_2d": [
+                513,
+                498,
+                535,
+                512
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8514646291732788,
+            "text": "1.00",
+            "box_2d": [
+                652,
+                498,
+                683,
+                511
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.9011603593826294,
+            "text": "164.6300",
+            "box_2d": [
+                709,
+                500,
+                767,
+                511
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9011551141738892,
+            "text": "164.63",
+            "box_2d": [
+                842,
+                500,
+                885,
+                511
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.8478572368621826,
+            "text": "VMRS: 041-001-005",
+            "box_2d": [
+                85,
+                517,
+                210,
+                531
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8390336632728577,
+            "text": "MISC",
+            "box_2d": [
+                83,
+                533,
+                124,
+                547
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8633005619049072,
+            "text": "INNER CIRCLE REWARDS",
+            "box_2d": [
+                240,
+                535,
+                404,
+                546
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8951915502548218,
+            "text": "EA",
+            "box_2d": [
+                513,
+                533,
+                535,
+                547
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8453140258789062,
+            "text": "-1.00",
+            "box_2d": [
+                647,
+                534,
+                682,
+                546
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8964623808860779,
+            "text": "16.4600",
+            "box_2d": [
+                714,
+                533,
+                769,
+                547
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.8843371272087097,
+            "text": "-16.46",
+            "box_2d": [
+                843,
+                533,
+                887,
+                547
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.731490969657898,
+            "text": "HST Tax",
+            "box_2d": [
+                28,
+                607,
+                86,
+                625
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.8501381278038025,
+            "text": "19.26",
+            "box_2d": [
+                850,
+                611,
+                885,
+                624
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.2424209862947464,
+            "text": "148.17",
+            "box_2d": [
+                840,
+                776,
+                885,
+                791
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.2536351978778839,
+            "text": "19.26",
+            "box_2d": [
+                845,
+                794,
+                885,
+                809
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.2170604169368744,
+            "text": "164.63",
+            "box_2d": [
+                346,
+                831,
+                393,
+                846
+            ]
+        }
+    ]
+}

@@ -1,0 +1,489 @@
+{
+    "image": "invoice_CPI007534830_page0.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8935846090316772,
+            "text": "CPI007534830",
+            "box_2d": [
+                322,
+                80,
+                475,
+                102
+            ]
+        },
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8888580799102783,
+            "text": "05/23/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8836718797683716,
+            "text": "67-189094",
+            "box_2d": [
+                563,
+                113,
+                636,
+                124
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.7063634991645813,
+            "text": "Net 30 Days",
+            "box_2d": [
+                749,
+                150,
+                834,
+                161
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8389248251914978,
+            "text": "06/25/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.3442632257938385,
+            "text": " LAIDLAW CARRIERS VAN GP, INC.",
+            "box_2d": [
+                44,
+                241,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6461189985275269,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                317,
+                246,
+                490,
+                256
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8709126710891724,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                614,
+                244,
+                706,
+                256
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.41015782952308655,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                253,
+                179,
+                265
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.7893694639205933,
+            "text": "2246 Bowman St.",
+            "box_2d": [
+                317,
+                256,
+                422,
+                268
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.645177960395813,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.9474325180053711,
+            "text": " PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9685491323471069,
+            "text": "Innisfil, ON L9S 3V5",
+            "box_2d": [
+                316,
+                266,
+                439,
+                280
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.977961003780365,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9787554740905762,
+            "text": "Toronto,ON M5W 0E9",
+            "box_2d": [
+                610,
+                301,
+                747,
+                311
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8709197640419006,
+            "text": "2257D1174",
+            "box_2d": [
+                87,
+                482,
+                156,
+                493
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8731580972671509,
+            "text": "CLIP-CLEVIS PIN ASA 1/16\"",
+            "box_2d": [
+                239,
+                481,
+                410,
+                494
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8976390957832336,
+            "text": "Each",
+            "box_2d": [
+                513,
+                482,
+                547,
+                494
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8310598134994507,
+            "text": "100.00",
+            "box_2d": [
+                636,
+                481,
+                683,
+                495
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8860551118850708,
+            "text": "1.3400",
+            "box_2d": [
+                723,
+                481,
+                769,
+                495
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9054768085479736,
+            "text": "134.00",
+            "box_2d": [
+                840,
+                481,
+                887,
+                495
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.7481353282928467,
+            "text": "VMRS: 053-040-007",
+            "box_2d": [
+                87,
+                501,
+                207,
+                512
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8618262410163879,
+            "text": "223084",
+            "box_2d": [
+                85,
+                517,
+                133,
+                529
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.865420937538147,
+            "text": "RING",
+            "box_2d": [
+                239,
+                517,
+                276,
+                529
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8964354395866394,
+            "text": "Each",
+            "box_2d": [
+                513,
+                517,
+                547,
+                530
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8450548648834229,
+            "text": "10.00",
+            "box_2d": [
+                645,
+                517,
+                683,
+                529
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8963017463684082,
+            "text": "25.6500",
+            "box_2d": [
+                716,
+                517,
+                767,
+                529
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9057117700576782,
+            "text": "256.50",
+            "box_2d": [
+                840,
+                517,
+                884,
+                529
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8679908514022827,
+            "text": "512784",
+            "box_2d": [
+                85,
+                537,
+                134,
+                549
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8732835650444031,
+            "text": "STRAP-2\" RATCHET",
+            "box_2d": [
+                239,
+                536,
+                367,
+                550
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8910934925079346,
+            "text": "Each",
+            "box_2d": [
+                513,
+                537,
+                547,
+                550
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8523557186126709,
+            "text": "8.00",
+            "box_2d": [
+                652,
+                537,
+                682,
+                549
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8954282999038696,
+            "text": "28.6100",
+            "box_2d": [
+                716,
+                537,
+                767,
+                549
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9043442010879517,
+            "text": "228.88",
+            "box_2d": [
+                840,
+                537,
+                884,
+                549
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8568390607833862,
+            "text": "52221C",
+            "box_2d": [
+                85,
+                556,
+                135,
+                567
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8624861836433411,
+            "text": "RUBBER TIE-50 PER BOX 21\" -",
+            "box_2d": [
+                239,
+                555,
+                439,
+                568
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8854715824127197,
+            "text": "Each",
+            "box_2d": [
+                513,
+                556,
+                547,
+                568
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8271771669387817,
+            "text": "300.00",
+            "box_2d": [
+                636,
+                556,
+                682,
+                567
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.8722758293151855,
+            "text": "0.9800",
+            "box_2d": [
+                723,
+                556,
+                767,
+                567
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.8964657187461853,
+            "text": "294.00",
+            "box_2d": [
+                840,
+                556,
+                885,
+                567
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7532259821891785,
+            "text": "HST Tax",
+            "box_2d": [
+                29,
+                633,
+                85,
+                644
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.8221995830535889,
+            "text": "896738069",
+            "box_2d": [
+                233,
+                632,
+                302,
+                643
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.8542096018791199,
+            "text": "118.74",
+            "box_2d": [
+                842,
+                633,
+                885,
+                644
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.23682990670204163,
+            "text": "118.74",
+            "box_2d": [
+                838,
+                840,
+                885,
+                855
+            ]
+        }
+    ]
+}

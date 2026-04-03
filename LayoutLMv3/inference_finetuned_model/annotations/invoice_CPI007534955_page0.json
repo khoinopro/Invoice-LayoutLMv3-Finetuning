@@ -1,0 +1,500 @@
+{
+    "image": "invoice_CPI007534955_page0.png",
+    "predictions": [
+        {
+            "label": "B-document_id",
+            "confidence": 0.8947129845619202,
+            "text": "CPI007534955",
+            "box_2d": [
+                322,
+                80,
+                475,
+                102
+            ]
+        },
+        {
+            "label": "B-date_issue",
+            "confidence": 0.8900749087333679,
+            "text": "05/24/2025",
+            "box_2d": [
+                752,
+                75,
+                831,
+                89
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.8829858899116516,
+            "text": "54-189005",
+            "box_2d": [
+                560,
+                111,
+                636,
+                126
+            ]
+        },
+        {
+            "label": "B-terms",
+            "confidence": 0.7131400108337402,
+            "text": "Net 30 Days",
+            "box_2d": [
+                747,
+                149,
+                832,
+                160
+            ]
+        },
+        {
+            "label": "B-date_due",
+            "confidence": 0.8375670909881592,
+            "text": "06/25/2025",
+            "box_2d": [
+                753,
+                186,
+                829,
+                198
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.3417893350124359,
+            "text": "LAIDLAW CARRIERS VAN GP, INC",
+            "box_2d": [
+                46,
+                241,
+                261,
+                253
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_name",
+            "confidence": 0.6507875323295593,
+            "text": "Laidlaw Carriers Van GP, Inc.",
+            "box_2d": [
+                317,
+                246,
+                490,
+                256
+            ]
+        },
+        {
+            "label": "B-sender_name",
+            "confidence": 0.8733606338500977,
+            "text": "Corcentric, LLC",
+            "box_2d": [
+                612,
+                244,
+                706,
+                255
+            ]
+        },
+        {
+            "label": "B-recipient_address",
+            "confidence": 0.5203443169593811,
+            "text": "21 KERR CRESCENT",
+            "box_2d": [
+                46,
+                252,
+                179,
+                266
+            ]
+        },
+        {
+            "label": "B-recipient_delivery_address",
+            "confidence": 0.7324945330619812,
+            "text": "31 Garnet Rd",
+            "box_2d": [
+                316,
+                256,
+                399,
+                267
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.6195363402366638,
+            "text": "C/O Lockbox 914170",
+            "box_2d": [
+                611,
+                253,
+                740,
+                269
+            ]
+        },
+        {
+            "label": "I-recipient_address",
+            "confidence": 0.9505780339241028,
+            "text": " PUSLINCH, ON NOB 2J0",
+            "box_2d": [
+                46,
+                262,
+                195,
+                276
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.9707247018814087,
+            "text": "Brantford, ON N3T 5M1",
+            "box_2d": [
+                316,
+                266,
+                456,
+                279
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9784521460533142,
+            "text": "PO Box 4090 STN A",
+            "box_2d": [
+                612,
+                279,
+                734,
+                289
+            ]
+        },
+        {
+            "label": "I-sender_address",
+            "confidence": 0.9791606068611145,
+            "text": "Toronto,ON M5W 0E9",
+            "box_2d": [
+                610,
+                301,
+                747,
+                311
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8710957169532776,
+            "text": "M13109",
+            "box_2d": [
+                84,
+                523,
+                138,
+                541
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8674196600914001,
+            "text": "EXHAUST M",
+            "box_2d": [
+                240,
+                527,
+                319,
+                538
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.8950393795967102,
+            "text": "Each",
+            "box_2d": [
+                513,
+                527,
+                547,
+                539
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8498620986938477,
+            "text": "2.00",
+            "box_2d": [
+                650,
+                527,
+                682,
+                539
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.9010606408119202,
+            "text": "18.1700",
+            "box_2d": [
+                716,
+                526,
+                769,
+                540
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9006621837615967,
+            "text": "36.34",
+            "box_2d": [
+                846,
+                526,
+                887,
+                540
+            ]
+        },
+        {
+            "label": "B-item_code",
+            "confidence": 0.8638734817504883,
+            "text": "EM75-69000HTATR",
+            "box_2d": [
+                88,
+                546,
+                207,
+                557
+            ]
+        },
+        {
+            "label": "B-item_description",
+            "confidence": 0.8519871234893799,
+            "text": "EXHAUST MOUNT BUSHING KIT HIGH",
+            "box_2d": [
+                240,
+                546,
+                480,
+                557
+            ]
+        },
+        {
+            "label": "B-item_uom",
+            "confidence": 0.893476128578186,
+            "text": "Each",
+            "box_2d": [
+                513,
+                546,
+                547,
+                558
+            ]
+        },
+        {
+            "label": "B-item_quantity",
+            "confidence": 0.8481185436248779,
+            "text": "2.00",
+            "box_2d": [
+                652,
+                546,
+                682,
+                558
+            ]
+        },
+        {
+            "label": "B-item_amount",
+            "confidence": 0.9005453586578369,
+            "text": "49.8000",
+            "box_2d": [
+                716,
+                544,
+                769,
+                559
+            ]
+        },
+        {
+            "label": "B-item_amount_total",
+            "confidence": 0.9024933576583862,
+            "text": "99.60",
+            "box_2d": [
+                846,
+                544,
+                887,
+                559
+            ]
+        },
+        {
+            "label": "I-item_description",
+            "confidence": 0.9489274621009827,
+            "text": "TEMP",
+            "box_2d": [
+                240,
+                558,
+                278,
+                569
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.8138357400894165,
+            "text": "VMRS: 043-080-003",
+            "box_2d": [
+                87,
+                575,
+                207,
+                585
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.7407839298248291,
+            "text": "HST Tax",
+            "box_2d": [
+                28,
+                649,
+                85,
+                660
+            ]
+        },
+        {
+            "label": "B-sender_vat_id",
+            "confidence": 0.8156356811523438,
+            "text": "899544779",
+            "box_2d": [
+                233,
+                647,
+                302,
+                659
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.84315025806427,
+            "text": "17.67",
+            "box_2d": [
+                850,
+                649,
+                885,
+                661
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.30057844519615173,
+            "text": "F - Freight",
+            "box_2d": [
+                65,
+                836,
+                134,
+                853
+            ]
+        },
+        {
+            "label": "I-item_description",
+            "confidence": 0.18723323941230774,
+            "text": "0.00",
+            "box_2d": [
+                358,
+                838,
+                393,
+                853
+            ]
+        },
+        {
+            "label": "B-amount_total_base",
+            "confidence": 0.2691725194454193,
+            "text": "135.94",
+            "box_2d": [
+                840,
+                838,
+                885,
+                853
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.2970661222934723,
+            "text": "L - Labor",
+            "box_2d": [
+                68,
+                858,
+                126,
+                869
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.2568102478981018,
+            "text": "0.00",
+            "box_2d": [
+                358,
+                856,
+                393,
+                872
+            ]
+        },
+        {
+            "label": "B-tax_amount",
+            "confidence": 0.4697447717189789,
+            "text": "17.67",
+            "box_2d": [
+                845,
+                856,
+                885,
+                870
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.16272322833538055,
+            "text": "0.00",
+            "box_2d": [
+                357,
+                874,
+                394,
+                886
+            ]
+        },
+        {
+            "label": "B-tax_name",
+            "confidence": 0.2792205214500427,
+            "text": "P - Parts",
+            "box_2d": [
+                66,
+                892,
+                126,
+                907
+            ]
+        },
+        {
+            "label": "B-purchase_order_id",
+            "confidence": 0.15116116404533386,
+            "text": "135.94",
+            "box_2d": [
+                346,
+                892,
+                393,
+                907
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.3023099899291992,
+            "text": "S - Shop",
+            "box_2d": [
+                66,
+                910,
+                126,
+                924
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.3644411265850067,
+            "text": "0.00",
+            "box_2d": [
+                358,
+                909,
+                393,
+                924
+            ]
+        },
+        {
+            "label": "I-item_code",
+            "confidence": 0.34198489785194397,
+            "text": "U - Sublet",
+            "box_2d": [
+                65,
+                926,
+                132,
+                944
+            ]
+        },
+        {
+            "label": "I-recipient_delivery_address",
+            "confidence": 0.25236836075782776,
+            "text": "0.00",
+            "box_2d": [
+                358,
+                927,
+                393,
+                942
+            ]
+        }
+    ]
+}
