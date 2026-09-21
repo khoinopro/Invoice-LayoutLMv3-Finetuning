@@ -5,9 +5,10 @@ from tqdm import tqdm
 
 def combine_dataset():
     # Paths
-    ocr_dir = r'd:\Internship\Fine-tuning\ocr_with_ner_tags'
-    img_dir = r'd:\Internship\Fine-tuning\images'
-    output_path = r'd:\Internship\Fine-tuning\LayoutLMv3\Training_layoutLMV3.json'
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    ocr_dir = os.path.join(base_dir, 'ocr_with_ner_tags')
+    img_dir = os.path.join(base_dir, 'images')
+    output_path = os.path.join(os.path.dirname(base_dir), 'Finetuning', 'inputs', 'Training_layoutLMV3.json')
     label_map_path = os.path.join(ocr_dir, 'label_map.json')
     
     # Check dependencies

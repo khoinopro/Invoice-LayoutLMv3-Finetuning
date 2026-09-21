@@ -18,6 +18,21 @@ def is_inside(box_inner, box_outer):
     cy = (box_inner[1] + box_inner[3]) / 2
     return (box_outer[0] <= cx <= box_outer[2]) and (box_outer[1] <= cy <= box_outer[3])
 
+def calculate_ioa(box_inner, box_outer):
+    """Calculate Intersection-over-Area (IoA) between box_inner (OCR) and box_outer (GT)."""
+    ix1 = max(box_inner[0], box_outer[0])
+    iy1 = max(box_inner[1], box_outer[1])
+    ix2 = min(box_inner[2], box_outer[2])
+    iy2 = min(box_inner[3], box_outer[3])
+    
+    if ix2 <= ix1 or iy2 <= iy1:
+        return 0.0
+        
+    intersection = (ix2 - ix1) * (iy2 - iy1)
+    inner_area = (box_inner[2] - box_inner[0]) * (box_inner[3] - box_inner[1])
+    
+    return intersection / inner_area if inner_area > 0 else 0.0
+
 def get_label_map(labels_file):
     with open(labels_file, 'r') as f:
         lines = f.readlines()
@@ -42,11 +57,12 @@ def get_label_map(labels_file):
     return label2id, id2label
 
 def generate_tags_batch():
-    ocr_dir = r'd:\Internship\Fine-tuning\ocr_without_ner_tags'
-    ann_dir = r'd:\Internship\Fine-tuning\annotations_docile'
-    img_dir = r'd:\Internship\Fine-tuning\images'
-    labels_file = r'd:\Internship\Fine-tuning\Labels.txt'
-    output_dir = r'd:\Internship\Fine-tuning\ocr_with_ner_tags'
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    ocr_dir = os.path.join(base_dir, 'ocr_without_ner_tags')
+    ann_dir = os.path.join(base_dir, 'annotations')
+    img_dir = os.path.join(base_dir, 'images')
+    labels_file = os.path.join(base_dir, 'Labels.txt')
+    output_dir = os.path.join(base_dir, 'ocr_with_ner_tags')
     
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -105,7 +121,8 @@ def generate_tags_batch():
                 gt_bbox_pixels = field['bbox']
                 gt_bbox_norm = normalize_bbox(gt_bbox_pixels, width, height)
                 
-                if is_inside(ocr_bbox, gt_bbox_norm):
+                # Check alignment using IoA (if over 40% of the token is inside the ground truth box)
+                if calculate_ioa(ocr_bbox, gt_bbox_norm) > 0.40:
                     token_to_field_map[i] = f_idx
                     break
                     
