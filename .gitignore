@@ -6,10 +6,24 @@
 model.bin
 Finetuning/src/model.bin
 
-# User requested exclusions
+# Excluded Folders & Local Evaluation Sets
+corcentrix/
+Evaluate/
+set_eval/
 Finetuning/inference_results/
 Finetuning/inference_result/
 Preparing data-finetuned/ners_visualize/
+
+# Root Temporary & Local Files
+*.png
+!docs/*.png
+*.md
+!README.md
+!docs/*.md
+Convert_pdf_to_images.py
+fix_image_paths.py
+run_inference.bat
+Pipfile
 
 # Python / IDE / OS
 __pycache__/
