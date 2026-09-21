@@ -5,7 +5,7 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow.svg)](https://huggingface.co/)
 [![PaddleOCR](https://img.shields.io/badge/PaddleOCR-PP--OCRv4-red.svg)](https://github.com/PaddlePaddle/PaddleOCR)
 
-An end-to-end multimodal deep learning pipeline for **Key Information Extraction (KIE)** from complex semi-structured invoice documents. This repository integrates **LayoutLMv3** with **PaddleOCR** line-to-word bounding box alignment for field extraction across 24 invoice entity categories (49 BIO tags).
+An end-to-end multimodal deep learning pipeline for **Key Information Localization Extraction (KILE)** from complex semi-structured invoice documents. This repository integrates **LayoutLMv3** with **PaddleOCR** line-to-word bounding box alignment for field extraction across 24 invoice entity categories (49 BIO tags).
 
 ---
 
@@ -22,19 +22,6 @@ LayoutLMv3 fuses three distinct modalities to understand semi-structured documen
 
 ---
 
-## 📊 Evaluation Metrics & Benchmarks
-
-Evaluated on the 10-document benchmark test set (`set_eval`) under spatial overlap IoU threshold $> 0.60$ and confidence threshold $> 0.40$:
-
-| Metric Category | Metric | Score |
-| :--- | :--- | :---: |
-| **Spatial Alignment** | Bounding Box Precision | **90.20%** |
-| **Spatial Alignment** | Bounding Box Recall | **77.34%** |
-| **Spatial Alignment** | **Bounding Box F1-Score** | **83.27%** |
-| **Information Extraction** | **Text Extraction F1-Score** | **78.95%** |
-
----
-
 ## 📁 Repository Structure
 
 ```text
@@ -46,21 +33,23 @@ Invoice-LayoutLMv3-Finetuning/
 ├── Finetuning/                         <-- Training engine & standalone inference
 │   ├── src/                            <-- Engine, DataLoader, Trainer, Model modules
 │   ├── inputs/                         <-- Input configs and training JSONs
-│   ├── inference_script.py             <-- Standalone batch inference script
 │   └── requirements.txt
 ├── Preparing data-finetuned/           <-- Dataset preparation pipeline
-│   ├── generate_ner_tags.py            <-- IoA bounding box tagger & BIO tag generator
+│   ├── annotations/                    <-- Ground truth annotation JSONs
+│   ├── annotation_visualize/          <-- Annotation visual check outputs
+│   ├── images/                         <-- Document page image files (.png)
+│   ├── input_finetuned/                <-- Master dataset JSON & label_config
+│   ├── ocr_with_ner_tags/              <-- Generates OCR token JSONs with BIO tags
+│   ├── ocr_without_ner_tags/           <-- Raw PaddleOCR token JSON outputs
 │   ├── combine_dataset.py              <-- Consolidates document JSONs for training
-│   ├── analyze_distribution.py        <-- Class balance & label frequency analyzer
-│   ├── Labels.txt                      <-- Target 24 invoice field schema
-│   └── label_config.json               <-- 49 BIO class mapping dictionary
-├── notebooks/                          <-- Jupyter Notebooks
-│   ├── Demo_Inference.ipynb            <-- Interactive pipeline demo & metrics visualization
-│   └── Finetune_Colab.ipynb            <-- Google Colab GPU training notebook
-└── set_eval/                           <-- 10 sample evaluation PDF invoices
+│   ├── generate_ner_tags.py            <-- IoA bounding box tagger & BIO tag generator
+│   ├── config.json                     <-- HuggingFace model backbone config
+│   └── Labels.txt                      <-- Target 24 invoice field schema
+└── notebooks/                          <-- Jupyter Notebooks
+    ├── Demo_Inference.ipynb            <-- Interactive pipeline demo & metrics visualization
+    └── Finetune_Colab.ipynb            <-- Google Colab GPU training notebook
 ```
 
----
 
 ## 🚀 Quickstart Guide
 
