@@ -102,12 +102,6 @@ python Finetuning/src/main.py
 #### Interactive Demo Notebook
 Launch `notebooks/Demo_Inference.ipynb` in Jupyter Lab to run visual inference on `set_eval` PDFs and render bounding box overlays.
 
-#### Batch Production Inference
-To process a folder of invoice PDFs in batch mode:
-```bash
-python Finetuning/inference_script.py --pdf_dir set_eval/ --output_dir outputs/
-```
-
 ---
 
 ## 🏷️ Extracted Invoice Entities (24 Categories)
