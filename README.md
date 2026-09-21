@@ -28,8 +28,10 @@ LayoutLMv3 fuses three distinct modalities to understand semi-structured documen
 Invoice-LayoutLMv3-Finetuning/
 ├── README.md                           <-- Project Overview & Quickstart Guide
 ├── .gitignore                          <-- Excludes large model weights (*.bin)
-├── docs/                               <-- Diagrams and architecture guides
-│   └── LayoutLMv3_structure.png
+├── docs/                               <-- Documentation & thesis report
+│   ├── Bachelor Thesis Report.pdf     <-- Official Bachelor Thesis Document
+│   └── LayoutLMv3_structure.png       <-- Architecture diagram
+
 ├── Finetuning/                         <-- Training engine & standalone inference
 │   ├── src/                            <-- Engine, DataLoader, Trainer, Model modules
 │   ├── inputs/                         <-- Input configs and training JSONs
@@ -80,11 +82,6 @@ To prepare a new dataset for LayoutLMv3 training:
    ```bash
    python "Preparing data-finetuned/combine_dataset.py"
    ```
-4. Verify label distributions:
-   ```bash
-   python "Preparing data-finetuned/analyze_distribution.py"
-   ```
-
 ---
 
 ### 3. Model Fine-Tuning
@@ -125,5 +122,12 @@ python Finetuning/inference_script.py --pdf_dir set_eval/ --output_dir outputs/
 
 ---
 
-## 📄 License
-This project is developed for Invoice Key Information Extraction research and production fine-tuning.
+## 📄 Citation & Thesis Report
+
+This repository accompanies the **Bachelor's Thesis Report** on Invoice Key Information Localization Extraction (KILE) using Multimodal Transformer Architectures (LayoutLMv3 + PaddleOCR).
+
+* 📖 **Read Full Report**: [Bachelor Thesis Report.pdf](docs/Bachelor%20Thesis%20Report.pdf)
+
+### License
+This project is developed for Invoice Intelligence Document research and production fine-tuning.
+
